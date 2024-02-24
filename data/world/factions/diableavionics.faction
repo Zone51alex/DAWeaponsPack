@@ -1,0 +1,24 @@
+{
+    id:"diableavionics",
+
+    "knownWeapons":{
+        "tags":[
+            #"base_bp",
+            #"missile_bp",
+            #"hightech_bp",
+            #"midline_bp",
+            "diable_weapon_bp"
+            ],
+        "weapons":[
+			"diableavionics_mostro_medium",
+        ],
+    },
+
+    "priorityWeapons":{
+        "tags":[
+            "diable_weapon_bp"],
+        "weapons":[
+            "diableavionics_mostro_medium",
+        ],
+    },
+},

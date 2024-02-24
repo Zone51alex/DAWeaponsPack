@@ -1,0 +1,31 @@
+{
+    "id":"da_wepons_pack",
+    "name":"DA Weapons Pack",
+    "author":"Zone51,Damex",	
+    "version":
+    {
+        "major":0,
+        "minor":1,
+        "patch":0,
+    },
+    "description":"add a new weapon to Diable Avionics is the Mostro Twin Cannon",
+    "gameVersion": "0.97a",
+    "dependencies": [
+        {
+            "id": "lw_lazylib",
+            "name": "LazyLib",
+            #"version": "2.6"
+        },
+        {
+            "id": "MagicLib",
+            "name": "MagicLib",
+            #"version": "2.6"
+        },
+		{
+            "id": "diableavionics",
+            "name": "Diable Avionics",
+            #"version": "2.7.6"
+        },
+    ],
+	"jars":["jars/dummy.jar"],
+}
