@@ -6,9 +6,9 @@
     {
         "major":0,
         "minor":1,
-        "patch":0,
+        "patch":2,
     },
-    "description":"add a new weapon to Diable Avionics is the Mostro Twin Cannon",
+    "description":"add a new weapon to Diable Avionics, its the Mostro Twin Cannon",
     "gameVersion": "0.97a",
     "dependencies": [
         {
