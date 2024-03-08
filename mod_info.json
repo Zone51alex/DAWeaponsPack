@@ -1,14 +1,14 @@
 {
     "id":"da_wepons_pack",
-    "name":"DA Weapons Pack",
+    "name":"DA Weapons Pack - Sealed Edition",
     "author":"Zone51,Damex",	
     "version":
     {
         "major":0,
         "minor":1,
-        "patch":2,
+        "patch":3,
     },
-    "description":"add a new weapon to Diable Avionics, its the Mostro Twin Cannon",
+    "description":"add a new weapon to Diable Avionics, its the Mostro Twin Cannon, Compatible with the Sealed Edition",
     "gameVersion": "0.97a",
     "dependencies": [
         {

@@ -53,5 +53,5 @@
         },
 	"projectileSpecId":"diableavionics_mostro_shot",  # projectile that will be fired
 	"fireSoundTwo":"diableavionics_mostro_firing",
-        "everyFrameEffect":"data.scripts.weapons.Diableavionics_mostroFire",
+        "everyFrameEffect":"ruddygreat.diableavionics.scripts.weapons.Diableavionics_mostroFire",
 }
