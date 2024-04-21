@@ -3,3 +3,9 @@ id,type,text1,text2,text3,notes
 diableavionics_mostro_medium,WEAPON,"A Dual-barrel cannon array as a Smaller version of its bigger counterpart, The high-density plasma shells leave little room for range or efficiency.
 
 ",Assault,,
+diableavionics_glownail,WEAPON,"The GlowNail Compact Rifle is an old piece of technology, hence why it uses an admittedly inhumane nuclear fission fuel rod as the main method of inflicting damage. Effective against both armor and hulls, but adequately mitigated by shields.
+
+Only a few steps away from barbarism, the Glowtusk is the result of intentional psychological warfare design. The composite uranium fuel rod is launched at speeds high enough to start nuclear fission on contact with a solid object. The low efficiency of a surface detonation leads to poor shield penetration but once the offending protection is bypassed, the explosive effect is nothing short of spectacular. 
+ 
+While tolerated for space combat, atmospheric use of such weapons would be considered a war crime given the eon-lasting radioactive fallout they cause. Pre-Collapse trials against the Diable Avionics Corporation forced their Weapon Division to revise the composition of the fission rod to limit the half-life of the produced isotopes to less than five hundred thousand Old Earth years, an injunction that activists at the time qualified as ""nothing short of insulting and meaningless"".",Support,,
+diableavionics_buckshot,WEAPON,,,,

@@ -11,6 +11,7 @@
             ],
         "weapons":[
 			"diableavionics_mostro_medium",
+			"diableavionics_glownail"
         ],
     },
 
@@ -19,6 +20,7 @@
             "diable_weapon_bp"],
         "weapons":[
             "diableavionics_mostro_medium",
+			"diableavionics_glownail"
         ],
     },
 },

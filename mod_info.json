@@ -5,10 +5,10 @@
     "version":
     {
         "major":0,
-        "minor":1,
-        "patch":2,
+        "minor":2,
+        "patch":1,
     },
-    "description":"add a new weapon to Diable Avionics, its the Mostro Twin Cannon",
+    "description":"Adds the New Buckshot Small Mount Ballistic Weapon",
     "gameVersion": "0.97a",
     "dependencies": [
         {
