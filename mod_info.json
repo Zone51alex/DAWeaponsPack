@@ -1,14 +1,14 @@
 {
-    "id":"da_wepons_pack",
-    "name":"DA Weapons Pack",
+    "id":"da_Junkers_Guild",
+    "name":"DA Junker's Guild",
     "author":"Zone51,Damex",	
     "version":
     {
         "major":0,
-        "minor":2,
-        "patch":1,
+        "minor":3,
+        "patch":0,
     },
-    "description":"Adds the New Buckshot Small Mount Ballistic Weapon",
+    "description":"adds a new Sub Faction to Diableavionics right now, it adds 6 ship variants and 4 Weapons, Microburn go BRRRR",
     "gameVersion": "0.97a",
     "dependencies": [
         {
