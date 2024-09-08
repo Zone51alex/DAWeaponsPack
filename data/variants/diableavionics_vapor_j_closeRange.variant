@@ -1,0 +1,31 @@
+{
+    "displayName": "Close Support",
+    "fluxCapacitors": 9,
+    "fluxVents": 10,
+	"goalVariant": true,
+    "hullId": "diableavionics_vapor_j",
+    "hullMods": [],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "diableavionics_vapor_j_closeRange",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS0001": "diableavionics_recson2"}
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS0002": "diableavionics_artdeux"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0003": "diableavionics_ibis",
+                "WS0004": "diableavionics_ibis"
+            }
+        }
+    ]
+}

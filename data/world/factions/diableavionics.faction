@@ -10,17 +10,11 @@
             "diable_weapon_bp"
             ],
         "weapons":[
+			"diableavionics_diurne",
 			"diableavionics_mostro_medium",
+			"diableavionics_buckshot",
 			"diableavionics_glownail"
         ],
     },
 
-    "priorityWeapons":{
-        "tags":[
-            "diable_weapon_bp"],
-        "weapons":[
-            "diableavionics_mostro_medium",
-			"diableavionics_glownail"
-        ],
-    },
-},
+}
