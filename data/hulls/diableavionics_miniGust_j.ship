@@ -41,7 +41,8 @@
   ],
   "builtInMods": [
     #"diableavionics_universaldecksExtra",
-    #"diableavionics_avionics"
+    #"diableavionics_avionics",
+	#"jg_salvagewingcon"
   ],
   "builtInWeapons": {
     "WS0006": "diableavionics_microcluster"
@@ -99,14 +100,14 @@
   ],
   "height": 291,
   "hullId": "diableavionics_miniGust_j",
-  "hullName": "Pocket Gust(JG)",
+  "hullName": "Pocket Gust",
   "hullSize": "DESTROYER",
   "shieldCenter": [
     15,
     -0
   ],
   "shieldRadius": 151,
-  "spriteName": "graphics/ships/diableavionics_minigust.png",
+  "spriteName": "graphics/jg/ships/diableavionics_minigust.png",
   "style": "HIGH_TECH",
   "viewOffset": 0,
   "weaponSlots": [

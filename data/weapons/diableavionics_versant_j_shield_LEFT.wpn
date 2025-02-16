@@ -4,7 +4,7 @@
 	"type":"DECORATIVE",
 	"size":"SMALL",
 	"showDamageWhenDecorative":true,
-	"turretSprite":"graphics/ships/versant/diableavionics_versant_shieldLeft.png",
+	"turretSprite":"graphics/jg/ships/versant/diableavionics_versant_shieldLeft.png",
 	"hardpointSprite":"",
 	"renderBelowAllWeapons":"true",
 	"turretOffsets":[0, 0],

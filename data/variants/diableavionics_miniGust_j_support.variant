@@ -1,42 +1,48 @@
 {
     "displayName": "Support",
-    "fluxCapacitors": 4,
-    "fluxVents": 20,
+    "fluxCapacitors": 2,
+    "fluxVents": 14,
     "goalVariant": true,
     "hullId": "diableavionics_miniGust_j",
-    "hullMods": [],
-    "permaMods": [],
+    "hullMods": [
+        "diableavionics_sniperkit",
+        "targetingunit",
+    ],
+    "permaMods": [
+    ],
     "sMods": [],
-    "variantId": "diableavionics_miniGust_j_support",
+    "suppressedMods": [],
+    "variantId": "diableavionics_miniGust_j_Support",
     "weaponGroups": [
         {
             "autofire": false,
             "mode": "LINKED",
             "weapons": {
-                "WS0002": "diableavionics_recson",
-                "WS0003": "diableavionics_recson",
-                "WS0004": "diableavionics_recson",
-                "WS0005": "diableavionics_recson"
+                "WS0008": "diableavionics_micromissile",
+                "WS0007": "diableavionics_micromissile",
+                "WS0006": "diableavionics_microcluster",
             }
         },
         {
             "autofire": true,
             "mode": "LINKED",
-            "weapons": {"WS0001": "diableavionics_thrush"}
-        },
-        {
-            "autofire": true,
-            "mode": "LINKED",
-            "weapons": {"WS0006": "diableavionics_microcluster"}
+            "weapons": {
+                "WS0001": "diableavionics_thrush",
+            }
         },
         {
             "autofire": true,
             "mode": "ALTERNATING",
             "weapons": {
-                "WS0007": "diableavionics_magicbox",
-                "WS0008": "diableavionics_magicbox"
+                "WS0003": "diableavionics_recson",
+                "WS0002": "diableavionics_recson",
+                "WS0005": "diableavionics_recson",
+                "WS0004": "diableavionics_recson",
             }
-        }
+        },
     ],
-    "wings": ["diableavionics_warlust_wing"]
+    "wings": [
+        "diableavionics_warlust_wing",
+    ],
+    "modules": [],
 }

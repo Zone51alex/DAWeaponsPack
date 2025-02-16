@@ -135,7 +135,7 @@
     -0
   ],
   "shieldRadius": 113,
-  "spriteName": "graphics/ships/diableavionics_fractus.png",
+  "spriteName": "graphics/jg/ships/diableavionics_fractus.png",
   "style": "HIGH_TECH",
   "viewOffset": 0,
   "weaponSlots": [

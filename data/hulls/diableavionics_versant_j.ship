@@ -44,7 +44,6 @@
   "builtInMods": [
     "diableavionics_cramped",
     "diableavionics_tuning",
-	"jg_Humming_core",
     #"delicate"
   ],
   "builtInWeapons": {
@@ -117,7 +116,7 @@
     -0
   ],
   "shieldRadius": 70,
-  "spriteName": "graphics/ships/versant/diableavionics_versant_body.png",
+  "spriteName": "graphics/jg/ships/versant/diableavionics_versant_body.png",
   "style": "HIGH_TECH",
   "viewOffset": 0,
   "weaponSlots": [

@@ -122,7 +122,7 @@
     -0
   ],
   "shieldRadius": 65,
-  "spriteName": "graphics/ships/diableavionics_vapor.png",
+  "spriteName": "graphics/jg/ships/diableavionics_vapor.png",
   "style": "HIGH_TECH",
   "viewOffset": 0,
   "weaponSlots": [

@@ -1,0 +1,9 @@
+{
+    "startShipsSuper":[
+        ["diableavionics_versant_EX_Flagship","diableavionics_stratus_standard"],
+        ["diableavionics_calm_EX_Flagship","diableavionics_stratus_standard"],
+		["diableavionics_daze_EX_Flagship","diableavionics_rime_support"],
+		["diableavionics_vapor_EX_Flagship","diableavionics_stratus_standard"],
+		["diableavionics_gust_EX_Flagship","diableavionics_rime_support"],
+    ],
+}

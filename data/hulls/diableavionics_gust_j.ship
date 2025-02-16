@@ -62,8 +62,8 @@
     27.5
   ],
   "builtInMods": [
-    #"diableavionics_avionics",
-    "diableavionics_universaldecksExtra"
+    "diableavionics_universaldecksExtra",
+	#"jg_salvagewingcon",
   ],
   "center": [
     53,
@@ -122,14 +122,14 @@
   ],
   "height": 327,
   "hullId": "diableavionics_gust_j",
-  "hullName": "Gust(JG)",
+  "hullName": "Gust",
   "hullSize": "CRUISER",
   "shieldCenter": [
     32,
     -0
   ],
   "shieldRadius": 172,
-  "spriteName": "graphics/ships/diableavionics_gust.png",
+  "spriteName": "graphics/jg/ships/diableavionics_gust.png",
   "style": "HIGH_TECH",
   "viewOffset": 0,
   "weaponSlots": [

@@ -1,48 +1,53 @@
 {
     "displayName": "Beamer",
-    "fluxCapacitors": 3,
+    "fluxCapacitors": 0,
     "fluxVents": 20,
     "goalVariant": true,
     "hullId": "diableavionics_miniGust_j",
-    "hullMods": [],
-    "permaMods": [],
+    "hullMods": [
+        "targetingunit",
+    ],
+    "permaMods": [
+    ],
     "sMods": [],
-    "variantId": "diableavionics_miniGust_j_beamer",
+    "suppressedMods": [],
+    "variantId": "diableavionics_miniGust_j_Beamer",
     "weaponGroups": [
         {
-            "autofire": true,
+            "autofire": false,
             "mode": "ALTERNATING",
             "weapons": {
-                "WS0007": "diableavionics_thunderboltsmall",
-                "WS0008": "diableavionics_thunderboltsmall"
+                "WS0008": "diableavionics_banishsmall",
+                "WS0007": "diableavionics_banishsmall",
             }
         },
         {
             "autofire": true,
             "mode": "LINKED",
-            "weapons": {"WS0001": "diableavionics_glaux"}
-        },
-        {
-            "autofire": true,
-            "mode": "LINKED",
             "weapons": {
-                "WS0003": "diableavionics_graveac",
-                "WS0004": "diableavionics_graveac"
+                "WS0006": "diableavionics_microcluster",
             }
         },
         {
             "autofire": true,
             "mode": "LINKED",
-            "weapons": {"WS0005": "diableavionics_winee"}
+            "weapons": {
+                "WS0001": "diableavionics_glaux",
+            }
         },
         {
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
+                "WS0003": "diableavionics_burchel",
                 "WS0002": "diableavionics_burchel",
-                "WS0006": "diableavionics_microcluster"
+                "WS0005": "diableavionics_burchel",
+                "WS0004": "diableavionics_burchel",
             }
-        }
+        },
     ],
-    "wings": ["diableavionics_valiant_wing"]
+    "wings": [
+        "diableavionics_zephyr_wing",
+    ],
+    "modules": [],
 }

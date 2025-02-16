@@ -1,43 +1,44 @@
 {
     "displayName": "Support",
-    "fluxCapacitors": 0,
-    "fluxVents": 7,
+    "fluxCapacitors": 16,
+    "fluxVents": 3,
     "goalVariant": true,
     "hullId": "diableavionics_fractus_j",
     "hullMods": [],
-    "permaMods": [],
+    "permaMods": [
+    ],
     "sMods": [],
-    "variantId": "diableavionics_fractus_j_support",
+    "suppressedMods": [],
+    "variantId": "diableavionics_fractus_j_Support",
     "weaponGroups": [
         {
             "autofire": false,
             "mode": "LINKED",
-            "weapons": {"WS0002": "diableavionics_thrush"}
+            "weapons": {
+                "WS0002": "diableavionics_thrush",
+            }
         },
         {
-            "autofire": false,
-            "mode": "ALTERNATING",
+            "autofire": true,
+            "mode": "LINKED",
             "weapons": {
                 "WS0001": "diableavionics_micromissile",
-                "WS0006": "diableavionics_micromissile"
+                "WS0006": "diableavionics_micromissile",
             }
         },
         {
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS0003": "diableavionics_burchel",
-                "WS0004": "diableavionics_burchel"
+                "WS0003": "diableavionics_ibis",
+                "WS0005": "diableavionics_ibis",
+                "WS0004": "diableavionics_ibis",
             }
         },
-        {
-            "autofire": true,
-            "mode": "LINKED",
-            "weapons": {"WS0005": "diableavionics_ibis"}
-        }
     ],
     "wings": [
         "diableavionics_frost_wing",
-        "diableavionics_warlust_wing"
-    ]
+        "diableavionics_strife_wing",
+    ],
+    "modules": [],
 }

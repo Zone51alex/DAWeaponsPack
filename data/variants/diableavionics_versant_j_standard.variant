@@ -5,33 +5,40 @@
     "goalVariant": true,
     "hullId": "diableavionics_versant_j",
     "hullMods": [
-        "diableavionics_selector_auto",
-        "unstable_injector"
+        "diableavionics_selector_burst",
+        "fluxbreakers",
+        "unstable_injector",
     ],
-    "permaMods": [],
+    "permaMods": [
+    ],
     "sMods": [],
-    "variantId": "diableavionics_versant_j_standard",
+    "suppressedMods": [],
+    "variantId": "diableavionics_versant_j_Standard",
     "weaponGroups": [
         {
             "autofire": false,
-            "mode": "LINKED",
+            "mode": "ALTERNATING",
             "weapons": {
-                "GUN_LEFT": "diableavionics_versant_harvest_LEFT",
-                "GUN_RIGHT": "diableavionics_versant_harvest_RIGHT"
+                "WS0001": "diableavionics_plow",
+                "WS0002": "diableavionics_plow",
             }
-        },
-        {
-            "autofire": false,
-            "mode": "LINKED",
-            "weapons": {"WS0000": "diableavionics_plover"}
         },
         {
             "autofire": true,
-            "mode": "ALTERNATING",
+            "mode": "LINKED",
             "weapons": {
-                "WS0001": "diableavionics_magicbox",
-                "WS0002": "diableavionics_magicbox"
+                "WS0000": "diableavionics_recson2",
             }
-        }
-    ]
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "GUN_LEFT": "diableavionics_versant_harvestB_LEFT",
+                "GUN_RIGHT": "diableavionics_versant_harvestB_RIGHT",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
 }

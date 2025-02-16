@@ -5,8 +5,8 @@
     "version":
     {
         "major":0,
-        "minor":3,
-        "patch":0,
+        "minor":4,
+        "patch":1,
     },
     "description":"adds a new Sub Faction to Diableavionics right now, it adds 6 ship variants and 4 Weapons, Microburn go BRRRR",
     "gameVersion": "0.97a",

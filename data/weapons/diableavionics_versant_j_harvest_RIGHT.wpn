@@ -4,7 +4,7 @@
 	"type":"ENERGY",
 	"size":"MEDIUM",
 	"displayArcRadius":500,
-	"turretSprite":"graphics/ships/versant/diableavionics_versant_gunRight.png",
+	"turretSprite":"graphics/jg/ships/versant/diableavionics_versant_gunRight.png",
 	"hardpointSprite":"",
 	"turretOffsets":[34, -4],
 	"turretAngleOffsets":[0],

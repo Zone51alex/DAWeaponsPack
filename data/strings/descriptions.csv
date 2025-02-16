@@ -1,17 +1,11 @@
 id,type,text1,text2,text3,notes
 ,,,,,
-# POCKET GUST,,,,,
+#Ships,,,,,
 ,,,,,
 ,,,,,
 diableavionics_miniGust_j,SHIP,"While ostensibly related to the regular Gust-class hull design, it is unclear whether this model was a small scale prototype that turned out too performant to be put aside or rather was a successful miniaturization attempt. In any case the Pocket-Gust translates what made its bigger brother good as a light cruiser into an even nimbler Destroyer frame. 
 
-Somewhat lightly armed despite weighting fairly high for its class, the Pocket-Gust makes up for it with the signature ""Overlord"" system. Recognized as a terrific asset for small skirmish forces, the sometimes nicknamed ""Breeze"" sadly falls short compared to the full-sized Gust in larger engagements. The main reason being the few weapon emplacements not leaving any room to mount both offensive and defensive weapons, coupled with a narrow shield coverage.
-
-This ship has been Restored from a Destroyed Ship to Near Standard Spec but was unable to restore the Remote control due to the lack of Specialized Parts, so instead they added a Plasma Burn system to it.",,,
-,,,,,
-# GUST,,,,,
-,,,,,
-,,,,,
+This ship has been Restored from a Destroyed Ship to Near Standard Spec but was unable to restore the Remote control due to the lack of Specialized Parts, so instead they added a Plasma Jets system to it.",,,
 diableavionics_gust_j,SHIP,"A mainstay of Diable Avionics, these light cruisers are fast and excel in providing field support to the Wanzer element they carry. Their primary battery consists of a front-facing heavy weapon emplacement which gives them an unexpected punch but the relative lack of secondary weapons limits their effectiveness against multiple threats.
 
 The Gust cruiser design dates back almost 150 years before the collapse, during the peak of Diable Avionics's growth when their military contracts abounded and they could afford the R&D cost for less conventional designs. Historical notes and logs from the oldest ships of this class occasionally describe the difficulty of incorporating the proprietary ""Overlord"" system, and all the interferences to the local electromagnetic environment it causes, in a relatively small hull with its sensitive comm/data sphere. 
@@ -21,9 +15,27 @@ This device allows elite pilots well protected within the confine of the cruiser
 Nonetheless, that system provides a potent tool that can be used in a pinch to deliver a decisive blow. While initially welcomed by regular pilots that saw their odds of surviving increase as well as being able to learn directly from the bests, these systems have since taken a grim reputation as they can also be used to ensure a mission get carried out at any cost.
 
 This ship has been Restored from a Destroyed Ship to Near Standard Spec but was unable to restore the Remote control due to the lack of Specialized Parts, so instead they added a Plasma Burn system to it.",,,
+diableavionics_versant_j,SHIP,"One of the very last pre-Collapse designs the local branch of the Diable Avionics Corporation got its hands on before being abruptly cut-off. It features a mobile frame that can manipulate its shape to increase raw speed, or maneuverability. Advanced integrated weaponry and the latest version of the Diable Avionics's Quantum Targeting Prediction software(TM) come pre-installed.
+
+This Mass Production version has a Phase Core Stable Enough for Minor Stats Boost.",,,
+diableavionics_vapor_j,SHIP,"A nimble ultralight frigate chassis with a heavy frontal armament. Capable of disrupting fleet operations easily despite its sub-par point defense weapon mounts. 
+
+Junker’s Guild Restored those ships and changed their system to Flux Redirection, thanks to the abondance of Daze Class Salvage being recovered, tho the old system made the ship a complete utter nightmare to remove but restoring it instead made the Change way easier, it also made the Maintenace Cost Lower than needed since the frame is less Stressed out.",,,
+diableavionics_fractus_j,SHIP,"Taking after the ubiquitous Condor, this ship is a conversion of the Chinook tanker hull, modified to house a double flight deck. The central fuel tank has been traded for a medium-sized hard-point, useful for supporting the ship's strike-craft complement with stand-off artillery fire.
+
+This Carrier now has Specialized Gantries for The Arbitrator series thanks to the Salvage & Engineering Team Junker’s Guild.",,,
+diableavionics_rime_m_j,SHIP,"A light cruiser getting progressively phased out due to midling combat performance. While still adequate as a back-lines support ship, the fragility of the hull as well as its lack of dedicated Wanzer facilities has lead the Admiralty to decide to convert existing Rime-class into armed merchants instead.
+
+Junker's Guild Restored those Ships and Modified them with their Favorite System, Plasma Jets.",,,
+diableavionics_rime_s_j,SHIP,"A light cruiser getting progressively phased out due to midling combat performance. While still adequate as a back-lines support ship, the fragility of the hull as well as its lack of dedicated Wanzer facilities has lead the Admiralty to decide to convert existing Rime-class into armed merchants instead.
+
+The Engineering & Salvage Team Tested this Ship in Sim Tests and found it Lacking, then Tested it with their own Sets of Armements and found it Performing Better in Sim Tests than the Normal Set on the Standard Military Rime.
+
+This Rime has Been Silghtly Improved with a new small Mount in front of the medium mount.
+
+Junker's Guild Restored those Ships and Modified them with their Favorite System, Plasma Jets.",,,
 ,,,,,
-# VERSANT,,,,,
-,,,,,
+# VERSANT Guns,,,,,
 ,,,,,
 diableavionics_versant_j_harvest_LEFT,WEAPON,An energized projectile accelerator with limited output per shot but a decent fire-rate and superb projectile speed. Special dampeners housed in the base of the weapon allows it to keep rounds on target even during continuous firing at extreme accelerations.,Assault,,
 diableavionics_versant_j_harvestB_LEFT,WEAPON,An energized projectile accelerator with limited output per shot but a decent fire-rate and superb projectile speed. Special dampeners housed in the base of the weapon allows it to keep rounds on target even during continuous firing at extreme accelerations.,Assault,,
@@ -36,41 +48,14 @@ diableavionics_versant_j_harvestC_RIGHT,WEAPON,An energized projectile accelerat
 ,,,,,
 ,,,,,
 ,,,,,
-,,,,,
-diableavionics_versant_j,SHIP,"One of the very last pre-Collapse designs the local branch of the Diable Avionics Corporation got its hands on before being abruptly cut-off. It features a mobile frame that can manipulate its shape to increase raw speed, or maneuverability. Advanced integrated weaponry and the latest version of the Diable Avionics's Quantum Targeting Prediction software(TM) come pre-installed.
-
-Developed in parallel with the Valiant wanzer and the Virtuous Destroyer as part of the Einstein Initiative, the Versant-class shares many similar components albeit scaled to dimensions more fitting of a frigate. The basis for the radical departure in design philosophy was linked to the lack of light, highly mobile Wanzers wherein only high-speed frigates were capable to catch up pursued forces. This glaring gap in Diable's tactical capabilities was unable to be filled solely by Vapor interdiction frigates. This design is provided with an over-sized power-train that can only be operated at full capacity when the main weapon systems are disconnected, hence the need for the adaptable flux network that physically moves to connect to the engines.
-
-A design quirk that is often overlooked is the installation of an ultra-dense gyroscope at the center of mass of the Versant. This gyroscope is approximately eight times as dense compared to the standard for a ship this size, freeing up room for the experimental wide coverage shield emitter. When spun up to operating speeds, the gyroscope allows the rapid bearing changes that other Diable ships are incapable of. Maintenance crews often complain about the high pitched shrieking which lasts for hours as the gyroscopes spin down.
-
-Some Hotshot Pilot wanted a Restored Versant to use for his bounty work with Junker’s Guild, ends up finding a Derelict and Provided the funds to restore it, somehow Not only Restoring it to Original Specs but also Taking care of the of the High Pitched Noise into a Calming Hum.
-Diable took an interest in testing and adding it to the standard Versant features,ship Combat and Basic Flight test Proved Normal,the System test showed Higher than normal Energy Output, upon Checking the Gyroscope Compartment Immediately Stopped Everything and just Restored the Odd Versant to current specs and Told all parties involved to not speak of it, this incident was Nicknamed the Ziggy Incident by the Hotshot Pilot,by the groans of Junker’s Guild Leadership.",,,
-,,,,,
-# RIME,,,,,
+diableavionics_versant_EX_harvest_LEFT,WEAPON,An energized projectile accelerator with limited output per shot but a decent fire-rate and superb projectile speed. Special dampeners housed in the base of the weapon allows it to keep rounds on target even during continuous firing at extreme accelerations.,Assault,,
+diableavionics_versant_EX_harvestB_LEFT,WEAPON,An energized projectile accelerator with limited output per shot but a decent fire-rate and superb projectile speed. Special dampeners housed in the base of the weapon allows it to keep rounds on target even during continuous firing at extreme accelerations.,Assault,,
+diableavionics_versant_EX_harvestC_LEFT,WEAPON,An energized projectile accelerator with limited output per shot but a decent fire-rate and superb projectile speed. Special dampeners housed in the base of the weapon allows it to keep rounds on target even during continuous firing at extreme accelerations.,Assault,,
 ,,,,,
 ,,,,,
-diableavionics_rime_m_j,SHIP,"A light cruiser getting progressively phased out due to midling combat performance. While still adequate as a back-lines support ship, the fragility of the hull as well as its lack of dedicated Wanzer facilities has lead the Admiralty to decide to convert existing Rime-class into armed merchants instead.
-
-The Rime-class has a long and varied service in the Diable Avionics armada, especially during the pre-Collapse era. It is quick on its feet, packs a decent punch for its size and can be equipped with a large variety of loadouts making it one of the more flexible hull available for decades. Sadly, the advent of larger generations of Wanzers that could not fit its hangar as well as newer and better designs such as the Storm-class have pushed the Rime out of the spotlight.
-
-Junker’s Guild Restored those Ships and Modified them with their Favorite System, Plasma Burn.",,,
-,,,,,
-# FRACTUS,,,,,
-,,,,,
-diableavionics_fractus_j,SHIP,"Taking after the ubiquitous Condor, this ship is a conversion of the Chinook tanker hull, modified to house a double flight deck. The central fuel tank has been traded for a medium-sized hard-point, useful for supporting the ship's strike-craft complement with stand-off artillery fire.
-
-The Fractuses were designed as a palliative to reduce the need for large and expensive cruiser-sized carriers and to provide tactical level strikecraft support in small patrol fleets. Due to the converted nature of the design and the limited level of optimization that ensue, several facilities are less than optimally sized for a ship of this role. As such, the flight decks are somewhat cramped, but the crew quarters are equipped with uncommon luxuries such as a manned combat hospital or even a full-sized VR training simulator that can play cult classics like Elite Citizen.",,,
-,,,,,
-# VAPOR,,,,,
-,,,,,
-,,,,,
-diableavionics_vapor_j,SHIP,"A nimble ultralight frigate chassis with a heavy frontal armament. Capable of disrupting fleet operations easily despite its sub-par point defense weapon mounts. 
-
-A relatively recent design dating mere decades before the Great Collapse, this model is shoehorned with advanced technology on a thoroughly stripped-down Neo-titanium chassis. With its 16 pressurized plasma nozzles strewn across the hull for high acceleration evasive maneuvers, the ultralight frame can barely hold together under the stress of combat and needs close inspection after every sortie.
-
-As this is a first response interceptor, one can find little fault in the design choices, barring the lack of any real point defense mounts. Despite this caveat, it remains one of the more capable frigate designs in locking down fugitives and enemies alike while reinforcements catch up steadily.
-
-Junker’s Guild Restored those ships and changed their system to Flux Redirection, thanks to the abondance of Daze Salvage being recovered, tho the old system made the ship a complete utter nightmare to remove but restoring it instead made the Change way easier, it also made the Maintenace Cost Lower than needed since the frame is less Stressed out.",,,
+diableavionics_versant_EX_harvest_RIGHT,WEAPON,An energized projectile accelerator with limited output per shot but a decent fire-rate and superb projectile speed. Special dampeners housed in the base of the weapon allows it to keep rounds on target even during continuous firing at extreme accelerations.,Assault,,
+diableavionics_versant_EX_harvestB_RIGHT,WEAPON,An energized projectile accelerator with limited output per shot but a decent fire-rate and superb projectile speed. Special dampeners housed in the base of the weapon allows it to keep rounds on target even during continuous firing at extreme accelerations.,Assault,,
+diableavionics_versant_EX_harvestC_RIGHT,WEAPON,An energized projectile accelerator with limited output per shot but a decent fire-rate and superb projectile speed. Special dampeners housed in the base of the weapon allows it to keep rounds on target even during continuous firing at extreme accelerations.,Assault,,
 ,,,,,
 #WEAPONS,,,,,
 ,,,,,
@@ -85,3 +70,42 @@ The Prototype Variant of the Second Weapon ""Nail"" Project for the Engineering 
 diableavionics_buckshot,WEAPON,"an Upsize and Modified version of the snowball shotgun, with Monstruous Burst DPS and Poor Flux Efficiency.
 
 The Third Project by The Engineering & Salvage Team nicknamed ""Buckshot"" to restore the old Snowball's Fearsome Legacy of the Avalanche Wanzer's Signature weapon in Medium size Weaponry.",Strike,,
+diableavionics_diurne,WEAPON,"An intermediate beam weapon consisting of a pair of linked positron emitters. Lower range compared to contemporary beams put packs a superior punch.
+
+Junker's Guild Was Disapointed with the State beam's Effective role during simulated tests aganist the Persean Sector
+which Failed on doing any good Impact on any combat except for ships with no Shields.
+instead being Outshined by The Nocturne in Utility and Effective take downs from other engagements.
+
+Intead they modified the State Beam array as a Constant Beam instead to Combo up with the Nocturne.",Assault,,
+diableavionics_plow,WEAPON,"Predecessors of the FV-24 ""Thunderbolt"" missiles, these high-power rockets use the same type of nuclear shaped-charge warhead mounted on top of a solid rocket motor with basic attitude stabilization.
+
+The FV-16X ""Plow"" is a Rocket Pod with half the effective Salvo of the Plover Rocket Pod,
+this weapon was Discontinued by Diableavionics before entry to the Persean Sector,
+The Engineering & Salvage Team Dusted off the old Blueprint for Production due to the events in the Persean Sector.",Assault,,
+diableavionics_heemeyer,WEAPON,"Created from Leftovers of a Versant Havest Guns into the State Support Beam Chasis to create a new weapon.
+However Diable Halted its production after the first prototype on a Flagship due to Material issues. ",Assault,,
+"Heemeyer ""Raycast"" Cannon",WEAPON,"Created from Leftovers of a Versant Havest Guns into the State Support Beam Chasis to create a new weapon.
+ However Diable Halted its production after the first prototype on a Flagship due to Material issues. ",Assault,,
+diableavionics_hexafire_large,WEAPON,"you know you’re not supposed to have this ?, its just a Filler Weapon until I find a way to make a decent weapon for that spot.",Assault,,
+,,,,,
+#EX Flagships ,,,,,
+,,,,,
+diableavionics_gust_EX,SHIP,"A mainstay of Diable Avionics, these light cruisers are fast and excel in providing field support to the Wanzer element they carry. Their primary battery consists of a front-facing heavy weapon emplacement which gives them an unexpected punch but the relative lack of secondary weapons limits their effectiveness against multiple threats.
+
+This Ship has been Fine Turned with Improved Thrusters, and Along with Junker's Guild Favorite System, Plasma Burn. ",,,
+diableavionics_versant_EX,SHIP,"One of the very last pre-Collapse designs the local branch of the Diable Avionics Corporation got its hands on before being abruptly cut-off. It features a mobile frame that can manipulate its shape to increase raw speed, or maneuverability. Advanced integrated weaponry and the latest version of the Diable Avionics's Quantum Targeting Prediction software(TM) come pre-installed.
+
+Some Hotshot Pilot wanted a Restored Versant to use for his bounty work with Junker's Guild, ends up finding a Derelict and Provided the funds to restore it, somehow Not only Restoring it to Original Specs but also Taking care of the of the High Pitched Noise into a Calming Hum.
+Diable took an interest in testing and adding it to the standard Versant features, ship Combat and Basic Flight test Proved Normal, the System test showed Higher than normal Energy Output, upon Checking the Gyroscope Compartment Immediately Stopped Everything and just Restored the Odd Versant to current specs and Told all parties involved to not speak of it, Because Junker's Guild Accidently Created Phase Tech for Diable Avionics.
+
+Can be upgraded later on to take advantage of Phase Tech.",,,
+diableavionics_calm_EX,SHIP,"Meant for general support of fleet operations, the Calm-class boasts high-speed Pulse Engines and a front-loaded weapon layout making it suitable for many offensive roles. 
+",,,
+diableavionics_vapor_EX,SHIP,"A nimble ultralight frigate chassis with a heavy frontal armament. Capable of disrupting fleet operations easily despite its sub-par point defense weapon mounts. 
+",,,
+diableavionics_daze_EX,SHIP,"A lumbering cruiser that traded its offensive capabilities for an enhanced dissipation grid and a thicker armor belt. While the amount of weapon emplacements would seem underwhelming, they can be fitted with the best hardware available, and used relentlessly with the help of the Flux Redirection ship system.
+",,,
+diableavionics_storm_EX,SHIP,"Tough and versatile, this carrier gives its justifiably feared Wanzer squadrons the support and mobility they need. While slightly lacking in heavy weaponry, its ability to deploy enlarged squadrons of strike-craft makes it a reliable and versatile force projection platform.
+
+An Old Revision of the Storm was used as a Cargo Ship during the colonization of Sivie and then Found During the counter-invasion and fielded Back to fight aganist the Hedgemony counter-invasion Armada.
+",,,
