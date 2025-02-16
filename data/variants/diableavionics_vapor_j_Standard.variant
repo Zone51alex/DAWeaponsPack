@@ -1,0 +1,36 @@
+{
+    "displayName": "Standard",
+    "fluxCapacitors": 7,
+    "fluxVents": 0,
+    "goalVariant": true,
+    "hullId": "diableavionics_vapor_j",
+    "hullMods": [
+        "hardened_subsystems",
+        "safetyoverrides",
+    ],
+    "permaMods": [
+    ],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "diableavionics_vapor_j_Standard",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0003": "diableavionics_banishsmall",
+                "WS0004": "diableavionics_banishsmall",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0001": "diableavionics_nocturne",
+                "WS0002": "diableavionics_nocturne",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

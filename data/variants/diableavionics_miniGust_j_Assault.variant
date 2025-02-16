@@ -1,0 +1,55 @@
+{
+    "displayName": "Assault",
+    "fluxCapacitors": 8,
+    "fluxVents": 10,
+    "goalVariant": true,
+    "hullId": "diableavionics_miniGust_j",
+    "hullMods": [
+        "fluxbreakers",
+        "hardenedshieldemitter",
+        "unstable_injector",
+    ],
+    "permaMods": [
+    ],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "diableavionics_miniGust_j_Assault",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0008": "diableavionics_thunderboltsmall",
+                "WS0007": "diableavionics_thunderboltsmall",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0006": "diableavionics_microcluster",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0001": "diableavionics_gravemg",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0002": "diableavionics_artassault",
+                "WS0003": "diableavionics_artassault",
+                "WS0004": "diableavionics_artassault",
+                "WS0005": "diableavionics_artassault",
+            }
+        },
+    ],
+    "wings": [
+        "diableavionics_hoar_wing",
+    ],
+    "modules": [],
+}

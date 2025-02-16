@@ -1,14 +1,14 @@
 {
-    "id":"da_wepons_pack",
-    "name":"DA Weapons Pack - Sealed Edition",
+    "id":"da_Junkers_Guild",
+    "name":"DA Junker's Guild 0.4.1 Seal Edition",
     "author":"Zone51,Damex",	
     "version":
     {
         "major":0,
-        "minor":1,
-        "patch":3,
+        "minor":4,
+        "patch":1S,
     },
-    "description":"add a new weapon to Diable Avionics, its the Mostro Twin Cannon, Compatible with the Sealed Edition",
+    "description":"adds a new Sub Faction to Diableavionics right now, it adds 6 ship variants and 4 Weapons, Microburn go BRRRR",
     "gameVersion": "0.97a",
     "dependencies": [
         {
