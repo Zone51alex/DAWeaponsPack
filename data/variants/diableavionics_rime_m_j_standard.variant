@@ -1,7 +1,7 @@
 {
     "displayName": "Standard",
-    "fluxCapacitors": 0,
-    "fluxVents": 18,
+    "fluxCapacitors": 3,
+    "fluxVents": 19,
     "goalVariant": true,
     "hullId": "diableavionics_rime_m_j",
     "hullMods": [
@@ -21,7 +21,7 @@
             }
         },
         {
-            "autofire": true,
+            "autofire": false,
             "mode": "ALTERNATING",
             "weapons": {
                 "WS0011": "diableavionics_microbuiltin",
@@ -43,20 +43,20 @@
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS0005": "diableavionics_burchel",
-                "WS0004": "diableavionics_burchel",
+                "WS0003": "diableavionics_ibis",
             }
         },
         {
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS0003": "diableavionics_ibis",
+                "WS0005": "diableavionics_burchel",
+                "WS0004": "diableavionics_burchel",
             }
         },
     ],
     "wings": [
-        "diableavionics_strife_wing",
+        "diableavionics_frost_wing",
         "diableavionics_frost_wing",
     ],
     "modules": [],

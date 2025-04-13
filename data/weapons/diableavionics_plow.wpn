@@ -32,6 +32,7 @@
   ],
   "barrelMode": "ALTERNATING",
   "animationType": "SMOKE",
+  "interruptibleBurst":false,
   "smokeSpec": {
     "particleSizeMin": 20,
     "particleSizeRange": 14,

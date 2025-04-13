@@ -11,6 +11,10 @@
   "shieldCenter": [0, -0],
   "shieldRadius": 71.5,
   "viewOffset": 0,
+  "builtInMods": [
+    "jg_brownnote",
+    "jg_overloadedsubsystems",
+  ],
   "builtInWeapons": {
     "WS0005": "diableavionics_microbuiltin",
     "WS0006": "diableavionics_microbuiltin"

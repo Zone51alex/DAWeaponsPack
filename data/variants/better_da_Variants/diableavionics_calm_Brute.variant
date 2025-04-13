@@ -1,0 +1,53 @@
+{
+    "displayName": "Brute",
+    "fluxCapacitors": 0,
+    "fluxVents": 18,
+    "hullId": "diableavionics_calm",
+    "hullMods": [
+        "targetingunit",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "diableavionics_calm_Brute",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0003": "diableavionics_thunderboltsmall",
+                "WS0004": "diableavionics_thunderboltsmall",
+                "WS0005": "diableavionics_thunderboltsmall",
+                "WS0006": "diableavionics_thunderboltsmall",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0007": "diableavionics_microbuiltin",
+                "WS0008": "diableavionics_microbuiltin",
+                "WS0009": "diableavionics_microbuiltin",
+                "WS0010": "diableavionics_microbuiltin",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0011": "diableavionics_glaux",
+                "WS0012": "diableavionics_glaux",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0001": "diableavionics_ibis",
+                "WS0002": "diableavionics_ibis",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

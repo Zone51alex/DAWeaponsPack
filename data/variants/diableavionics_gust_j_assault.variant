@@ -1,11 +1,12 @@
 {
     "displayName": "Assault",
-    "fluxCapacitors": 23,
+    "fluxCapacitors": 14,
     "fluxVents": 30,
     "goalVariant": true,
     "hullId": "diableavionics_gust_j",
     "hullMods": [
         "magazines",
+        "targetingunit",
     ],
     "permaMods": [],
     "sMods": [],
@@ -13,20 +14,20 @@
     "variantId": "diableavionics_gust_j_Assault",
     "weaponGroups": [
         {
-            "autofire": false,
-            "mode": "ALTERNATING",
-            "weapons": {
-                "WS0003": "diableavionics_banishsmall",
-                "WS0004": "diableavionics_banishsmall",
-                "WS0005": "diableavionics_banishsmall",
-                "WS0006": "diableavionics_banishsmall",
-            }
-        },
-        {
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
                 "WS0001": "diableavionics_opfergv",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0006": "diableavionics_banishsmall",
+                "WS0004": "diableavionics_banishsmall",
+                "WS0005": "diableavionics_banishsmall",
+                "WS0003": "diableavionics_banishsmall",
             }
         },
         {
@@ -57,7 +58,7 @@
         },
     ],
     "wings": [
-        "diableavionics_valiant_wing",
+        "diableavionics_avalanche_wing",
     ],
     "modules": [],
 }

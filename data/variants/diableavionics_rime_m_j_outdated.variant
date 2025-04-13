@@ -1,7 +1,7 @@
 {
     "displayName": "Outdated",
     "fluxCapacitors": 0,
-    "fluxVents": 22,
+    "fluxVents": 20,
     "goalVariant": true,
     "hullId": "diableavionics_rime_m_j",
     "hullMods": [
@@ -10,19 +10,19 @@
     "permaMods": [],
     "sMods": [],
     "suppressedMods": [],
-    "variantId": "diableavionics_rime_m_j_Outdated",
+    "variantId": "diableavionics_rime_m_j_outdated",
     "weaponGroups": [
         {
             "autofire": false,
             "mode": "ALTERNATING",
             "weapons": {
-                "WS0012": "diableavionics_plover",
-                "WS0013": "diableavionics_plover",
+                "WS0012": "diableavionics_banish",
+                "WS0013": "diableavionics_banish",
             }
         },
         {
             "autofire": true,
-            "mode": "ALTERNATING",
+            "mode": "LINKED",
             "weapons": {
                 "WS0011": "diableavionics_microbuiltin",
                 "WS0002": "diableavionics_microbuiltin",
@@ -43,15 +43,15 @@
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS0005": "diableavionics_burchel",
-                "WS0004": "diableavionics_burchel",
+                "WS0003": "diableavionics_ibis",
             }
         },
         {
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS0003": "diableavionics_ibis",
+                "WS0005": "diableavionics_burchel",
+                "WS0004": "diableavionics_burchel",
             }
         },
     ],

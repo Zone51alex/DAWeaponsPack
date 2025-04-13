@@ -1,13 +1,12 @@
 {
     "displayName": "Close Quarter",
     "fluxCapacitors": 10,
-    "fluxVents": 5,
+    "fluxVents": 8,
     "goalVariant": true,
     "hullId": "diableavionics_vapor_j",
     "hullMods": [
-        "fluxbreakers",
         "hardenedshieldemitter",
-        "targetingunit",
+        "unstable_injector",
     ],
     "permaMods": [
     ],
@@ -16,19 +15,19 @@
     "variantId": "diableavionics_vapor_j_Close_Quarter",
     "weaponGroups": [
         {
-            "autofire": false,
-            "mode": "ALTERNATING",
-            "weapons": {
-                "WS0003": "diableavionics_plow",
-                "WS0004": "diableavionics_plow",
-            }
-        },
-        {
             "autofire": true,
-            "mode": "ALTERNATING",
+            "mode": "LINKED",
             "weapons": {
                 "WS0001": "diableavionics_hexafire",
                 "WS0002": "diableavionics_hexafire",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0003": "diableavionics_plow",
+                "WS0004": "diableavionics_plow",
             }
         },
     ],

@@ -1,0 +1,12 @@
+{
+	"graphics": {
+		
+	"characters":{
+	"falseadmiral5":"graphics/portraits/portrait_diktat16.png",
+	},
+	 "blueprint_packages":{
+		"diableavionics_station_package":"graphics/jg/cargo/icon/diableavionics_Station_package.png",
+		"diableavionics_jg_package":"graphics/da/icons/cargo/diableavionics_ship_package.png", 
+		},
+	},
+}

@@ -3,7 +3,7 @@
 	"type":"PHASE_CLOAK",
 	"aiType":"PHASE_CLOAK",
 	
-	"statsScript":"com.fs.starfarer.api.impl.combat.PhaseCloakStats",
+	"statsScript":"data.scripts.shipsystems.diableavionics_DamperPhaseStats",
 	"runScriptWhilePaused":true, # only for the player's ship
 	"runScriptWhileIdle":true,  # this means unapply() never gets called
 	"blockActionsWhileChargingDown":false,

@@ -1,0 +1,64 @@
+{
+    "displayName": "Support",
+    "fluxCapacitors": 4,
+    "fluxVents": 30,
+    "goalVariant": true,
+    "hullId": "diableavionics_chieftain_EX",
+    "hullMods": [
+        "fluxbreakers",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "diableavionics_chieftain_EX_Support",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0001": "diableavionics_uhlan",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0014": "diableavionics_micromissile",
+                "WS0016": "diableavionics_micromissile",
+                "WS0015": "diableavionics_micromissile",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0005": "diableavionics_srab",
+                "WS0004": "diableavionics_srab",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0012": "diableavionics_ibis",
+                "WS0023": "diableavionics_ibis",
+                "WS0013": "diableavionics_ibis",
+                "WS0010": "diableavionics_ibis",
+                "WS0009": "diableavionics_ibis",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0022": "diableavionics_burchel",
+                "WS0024": "diableavionics_burchel",
+            }
+        },
+    ],
+    "wings": [
+	"diableavionics_mite_drone_wing",
+    "diableavionics_mite_drone_wing",
+	],
+    "modules": [],
+}

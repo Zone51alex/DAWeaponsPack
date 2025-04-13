@@ -12,7 +12,7 @@
   "shieldRadius": 166,
   "viewOffset": 0,
   "builtInMods": [
-    "EX_nitroboost"
+    "EX_regulateshieldemitter"
   ],
   "builtInWeapons": {
     "WS0005": "diableavionics_microcluster2",

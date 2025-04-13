@@ -1,12 +1,13 @@
 {
     "displayName": "Bomber",
-    "fluxCapacitors": 12,
-    "fluxVents": 3,
+    "fluxCapacitors": 0,
+    "fluxVents": 5,
     "goalVariant": true,
     "hullId": "diableavionics_fractus_j",
-    "hullMods": [],
-    "permaMods": [
+    "hullMods": [
+        "expanded_deck_crew",
     ],
+    "permaMods": [],
     "sMods": [],
     "suppressedMods": [],
     "variantId": "diableavionics_fractus_j_Bomber",
@@ -22,17 +23,23 @@
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS0001": "diableavionics_micromissile",
                 "WS0006": "diableavionics_micromissile",
+                "WS0001": "diableavionics_micromissile",
             }
         },
         {
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS0003": "diableavionics_ibis",
+                "WS0004": "diableavionics_gravemac",
+                "WS0003": "diableavionics_gravemac",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
                 "WS0005": "diableavionics_ibis",
-                "WS0004": "diableavionics_ibis",
             }
         },
     ],

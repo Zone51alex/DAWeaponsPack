@@ -1,0 +1,49 @@
+{
+  "id": "diableavionics_knightarm",
+  "specClass": "projectile",
+  "projectileSpecId": "diableavionics_lazyhorn_shot",
+  "type": "ENERGY",
+  "size": "MEDIUM",
+  "displayArcRadius": 100,
+  "turretSprite": "graphics/jg/ships/knight/diableavionics_knightarm.png",
+  "turretGlowSprite": "graphics/jg/ships/knight/diableavionics_knightarm_glow.png",
+  "hardpointSprite": "",
+  "glowColor": [
+    232,
+    128,
+    35,
+    255
+  ],
+  "turretOffsets": [
+    21,
+    0
+  ],
+  "turretAngleOffsets": [
+    0
+  ],
+  "hardpointOffsets": [
+    10,
+    0
+  ],
+  "hardpointAngleOffsets": [   
+    0
+  ],
+  "barrelMode": "LINKED",
+  "animationType": "GLOW_AND_FLASH",
+  "muzzleFlashSpec": {
+    "length": 35,
+    "spread": 15,
+    "particleSizeMin": 25,
+    "particleSizeRange": 75,
+    "particleDuration": 0.15,
+    "particleCount": 5,
+    "particleColor": [
+      200,
+      75,
+      209,
+      215
+    ]
+  },
+  "fireSoundOne": "diableavionics_lazyhorn_charge",
+  "fireSoundTwo": "diableavionics_lazyhorn_firing"
+}

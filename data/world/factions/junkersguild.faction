@@ -1,7 +1,10 @@
 {
 	id:"junkersguild",
-	"color":[0,165,255,255],
-    "secondaryUIColor":[0,165,255,255],
+	
+	"color":[170,222,255,255],
+    "secondaryUIColor":[170,222,255,255],
+	"darkUIColor":[31,94,112,175],
+	"gridUIColor":[70,200,255,255],
 	"secondarySegments":2,
 	"displayName":"Junker's Guild",
 	"displayNameLong":"Junker's Guild",
@@ -11,11 +14,13 @@
 	"displayNameLongWithArticle":"the Junker's Guild",
 	"shipNamePrefix":"WSN",
 	"showInIntelTab":false,
+	
 	"shipNameSources":{
 		"diableavionics":1, 
 		"ROMAN":1,
 		"GREEK":1,
 	},
+	
 	"names":{
 		"old english":1,
 	},
@@ -347,6 +352,7 @@
             "diableavionics_avionics"
 		],
 	},
+	
 	"factionDoctrine":{
 		"warships":4,
         "carriers":3,
@@ -357,7 +363,8 @@
         "numShips":3,
 
         "shipSize":3,
-        "aggression":5,
+		
+        "aggression":3,
 
         "combatFreighterProbability":0.2,     				# instead of some portion of the freighters in a fleet
         "combatFreighterCombatUseFraction":0.2,  				# as part of the normal combat lineup

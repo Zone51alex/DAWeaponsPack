@@ -24,8 +24,9 @@
 				"damper1":"Incoming damage reduced by ",
 				
 				"EX_impthrusters":"Auxiliary Thrusters",
-				"EX_nitro_1":"Auxiliary Thrusters",
+				"EX_nitro_1":"Stabilized Shields",
 				"EX_nitro_2":"Unstable Injector",
+				"jg_persudophase":"Phase Hullmods",
 				
                 "hm_warning":"WARNING",
                 "hm_noBays":"This ship does not have standard fighter bays.",

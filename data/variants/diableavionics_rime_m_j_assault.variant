@@ -1,11 +1,11 @@
 {
     "displayName": "Assault",
-    "fluxCapacitors": 5,
-    "fluxVents": 28,
+    "fluxCapacitors": 7,
+    "fluxVents": 30,
     "goalVariant": true,
     "hullId": "diableavionics_rime_m_j",
     "hullMods": [
-        "unstable_injector",
+        "jg_salvagewingcon",
     ],
     "permaMods": [],
     "sMods": [],
@@ -21,8 +21,8 @@
             }
         },
         {
-            "autofire": true,
-            "mode": "LINKED",
+            "autofire": false,
+            "mode": "ALTERNATING",
             "weapons": {
                 "WS0011": "diableavionics_microbuiltin",
                 "WS0002": "diableavionics_microbuiltin",
@@ -56,8 +56,8 @@
         },
     ],
     "wings": [
-        "diableavionics_arbitrator_wing",
-        "diableavionics_arbitrator_wing",
+        "diableavionics_hoar_wing",
+        "diableavionics_hoar_wing",
     ],
     "modules": [],
 }

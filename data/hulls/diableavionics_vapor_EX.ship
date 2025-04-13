@@ -13,13 +13,11 @@
   "viewOffset": 0,
   "builtInMods": [
     "diableavionics_cramped",
-    "EX_dummy2"
+    "EX_dummy"
   ],
   "builtInWeapons": {
     "WS0001": "diableavionics_raycast",
-    "WS0002": "diableavionics_raycast",
-    "WS0003": "diableavionics_thunderboltsmall",
-    "WS0004": "diableavionics_thunderboltsmall"
+    "WS0002": "diableavionics_raycast"
   },
   "weaponSlots": [
     {
@@ -43,7 +41,7 @@
     {
       "id": "WS0003",
       "size": "SMALL",
-      "type": "BUILT_IN",
+      "type": "UNIVERSAL",
       "mount": "TURRET",
       "arc": 35,
       "angle": -10,
@@ -52,7 +50,7 @@
     {
       "id": "WS0004",
       "size": "SMALL",
-      "type": "BUILT_IN",
+      "type": "UNIVERSAL",
       "mount": "TURRET",
       "arc": 35,
       "angle": 10,

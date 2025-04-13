@@ -1,6 +1,6 @@
 id,type,text1,text2,text3,notes
 ,,,,,
-#Ships,,,,,
+#SHIP,,,,,
 ,,,,,
 ,,,,,
 diableavionics_miniGust_j,SHIP,"While ostensibly related to the regular Gust-class hull design, it is unclear whether this model was a small scale prototype that turned out too performant to be put aside or rather was a successful miniaturization attempt. In any case the Pocket-Gust translates what made its bigger brother good as a light cruiser into an even nimbler Destroyer frame. 
@@ -20,7 +20,7 @@ diableavionics_versant_j,SHIP,"One of the very last pre-Collapse designs the loc
 This Mass Production version has a Phase Core Stable Enough for Minor Stats Boost.",,,
 diableavionics_vapor_j,SHIP,"A nimble ultralight frigate chassis with a heavy frontal armament. Capable of disrupting fleet operations easily despite its sub-par point defense weapon mounts. 
 
-Junker’s Guild Restored those ships and changed their system to Flux Redirection, thanks to the abondance of Daze Class Salvage being recovered, tho the old system made the ship a complete utter nightmare to remove but restoring it instead made the Change way easier, it also made the Maintenace Cost Lower than needed since the frame is less Stressed out.",,,
+Junker’s Guild Restored those ships and changed their system to Flux Redirection, thanks to the Abundance of Daze Class Salvage being recovered, tho the old system made the ship a complete utter nightmare to remove but restoring it instead made the Change way easier, it also made the Maintenace Cost Lower than needed since the frame is less Stressed out.",,,
 diableavionics_fractus_j,SHIP,"Taking after the ubiquitous Condor, this ship is a conversion of the Chinook tanker hull, modified to house a double flight deck. The central fuel tank has been traded for a medium-sized hard-point, useful for supporting the ship's strike-craft complement with stand-off artillery fire.
 
 This Carrier now has Specialized Gantries for The Arbitrator series thanks to the Salvage & Engineering Team Junker’s Guild.",,,
@@ -33,7 +33,7 @@ The Engineering & Salvage Team Tested this Ship in Sim Tests and found it Lackin
 
 This Rime has Been Silghtly Improved with a new small Mount in front of the medium mount.
 
-Junker's Guild Restored those Ships and Modified them with their Favorite System, Plasma Jets.",,,
+The junker's guild restored these ships and modified them with their favourite system plasma burn.",,,
 ,,,,,
 # VERSANT Guns,,,,,
 ,,,,,
@@ -88,7 +88,7 @@ However Diable Halted its production after the first prototype on a Flagship due
  However Diable Halted its production after the first prototype on a Flagship due to Material issues. ",Assault,,
 diableavionics_hexafire_large,WEAPON,"you know you’re not supposed to have this ?, its just a Filler Weapon until I find a way to make a decent weapon for that spot.",Assault,,
 ,,,,,
-#EX Flagships ,,,,,
+#EX SHIPS,,,,,
 ,,,,,
 diableavionics_gust_EX,SHIP,"A mainstay of Diable Avionics, these light cruisers are fast and excel in providing field support to the Wanzer element they carry. Their primary battery consists of a front-facing heavy weapon emplacement which gives them an unexpected punch but the relative lack of secondary weapons limits their effectiveness against multiple threats.
 
@@ -109,3 +109,11 @@ diableavionics_storm_EX,SHIP,"Tough and versatile, this carrier gives its justif
 
 An Old Revision of the Storm was used as a Cargo Ship during the colonization of Sivie and then Found During the counter-invasion and fielded Back to fight aganist the Hedgemony counter-invasion Armada.
 ",,,
+,,,,,
+#SYSTEM,,,,,
+,,,,,
+diableavionics_driftcompact,SHIP_SYSTEM,"A failed capital class flicker core that only allows quick re-orient rather than full ship displacement, its been Minaturized and Enhanced and Tinted with Gold still a Prototype.",Movement,"Rapidly reorients the ship in the desired bearing with a nudge in the velocity direction. Drains a small amount of flux, especially when the shields are down.",
+,,,,,
+#FACTION,,,,,
+,,,,,
+junkersguild,FACTION,,,,

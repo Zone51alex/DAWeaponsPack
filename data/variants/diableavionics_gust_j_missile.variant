@@ -1,6 +1,6 @@
 {
     "displayName": "Missile",
-    "fluxCapacitors": 9,
+    "fluxCapacitors": 15,
     "fluxVents": 30,
     "goalVariant": true,
     "hullId": "diableavionics_gust_j",
@@ -25,7 +25,7 @@
             }
         },
         {
-            "autofire": false,
+            "autofire": true,
             "mode": "LINKED",
             "weapons": {
                 "WS0001": "diableavionics_opfergv",
@@ -33,18 +33,12 @@
         },
         {
             "autofire": true,
-            "mode": "ALTERNATING",
-            "weapons": {
-                "WS0007": "diableavionics_graveac",
-                "WS0008": "diableavionics_graveac",
-                "WS0009": "diableavionics_graveac",
-                "WS0010": "diableavionics_graveac",
-            }
-        },
-        {
-            "autofire": true,
             "mode": "LINKED",
             "weapons": {
+                "WS0007": "diableavionics_ibis",
+                "WS0008": "diableavionics_ibis",
+                "WS0009": "diableavionics_ibis",
+                "WS0010": "diableavionics_ibis",
                 "WS0011": "diableavionics_ibis",
                 "WS0014": "diableavionics_ibis",
                 "WS0015": "diableavionics_ibis",
@@ -52,7 +46,7 @@
         },
     ],
     "wings": [
-        "diableavionics_hoar_wing",
+        "diableavionics_strife_wing",
     ],
     "modules": [],
 }

@@ -1,3 +1,24 @@
+Version 0.4.2.4
+
+* the cheiftain now has Mite Drones, Basically an alternative minning laser with easy to destroy drones.
+* New weapon the Urn Strike Laser (Beta and Alpha) Beta is based on the antimatter blaster while the Alpha is based on the Uhlan.
+* File Cleanup Did for the .jar and the file structure everything should be all organized.
+
+Version 0.4.2.3
+
+* Changed the Plow Rocket Pod's Op cost is now 5.
+* Changes and add-ons to the bounties.
+* possible fix to the Junkers Guild Starter.
+* added Junker Cruiser Chieftain.
+* Gust EX now uses Burst Burn instead of Kaiju Drive.
+
+Version 0.4.2
+
+* Added new blueprint for Junkersguild Ships and Weapons.
+* Added Coanda and Brisk Fake Phase Variants (Prototype).
+* improved The EXperimental Series of ships (Vapor, Versant, Daze, Calm) vapor got a custom phase grazer Core, the versant has a 50 speed boost, Daze got a better stabilized shields and the calm class got the Hemeeyer "Raycast" Cannons on the second Medium hybrid mount as a second Built-in weapon.
+* added Hard mode Bounty with a Powerful Maelstorm Class Battlecruiser.
+
 Version 0.4.1
 
 * Fixed the Variants having Hullmods from Starship Legend,etc.

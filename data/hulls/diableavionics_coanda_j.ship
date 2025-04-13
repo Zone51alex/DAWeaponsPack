@@ -14,7 +14,10 @@
   "builtInMods": [
     #"diableavionics_avionics",\n
     "diableavionics_mountBI",
+	"jg_brownnote",
+	"jg_overloadedsubsystems",
     "missleracks",
+	
   ],
   "weaponSlots": [
     {

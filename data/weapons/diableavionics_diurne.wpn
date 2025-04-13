@@ -1,28 +1,58 @@
 {
-	"specClass":"beam",
-	"id":"diableavionics_diurne",
-	"beamEffect":"data.scripts.weapons.Diableavionics_stateEffect",
-	"type":"ENERGY",
-	"size":"MEDIUM",
-	"displayArcRadius":600,
-	"turretSprite":"graphics/jg/weapons/diableavionics_state_turret_base.png",
-	"turretGlowSprite":"graphics/jg/weapons/diableavionics_state_turret_glow.png",
-	"hardpointSprite":"graphics/jg/weapons/diableavionics_state_hardpoint_base.png",
-	"hardpointGlowSprite":"graphics/jg/weapons/diableavionics_state_hardpoint_glow.png",
-	"turretOffsets":[21, 6, 21, -6],
-	"turretAngleOffsets":[0,0],
-	"hardpointOffsets":[30, 5, 30, -5],
-	"hardpointAngleOffsets":[0,0],
-	"fringeColor":[41,15,155,255],
-	"coreColor":[238,255,239,255],
-	"darkCore":false,
-	"width":10.0,
-	"textureType":WEAVE,
-	"textureScrollSpeed":16.0,
-	"pixelsPerTexel":5.0,
-	"pierceSet":[PROJECTILE_FF,PROJECTILE_NO_FF,PROJECTILE_FIGHTER],
-	"glowColor":[232,128,35,255],
-        "animationType":"GLOW",
-	"fireSoundOne":"diableavionics_state_firing",
-	"fireSoundTwo":"diableavionics_state_loop",
+  "id": "diableavionics_diurne",
+  "specClass": "beam",
+  "type": "ENERGY",
+  "size": "MEDIUM",
+  "beamEffect": "data.scripts.weapons.Diableavionics_state2Effect",
+  "collisionClass": "RAY",
+  "collisionClassByFighter": "RAY_FIGHTER",
+  "displayArcRadius": 600,
+  "turretSprite": "graphics/jg/weapons/diableavionics_diurne_turret_base.png",
+  "turretGlowSprite": "graphics/jg/weapons/diableavionics_diurne_turret_glow.png",
+  "hardpointSprite": "graphics/jg/weapons/diableavionics_diurne_hardpoint_base.png",
+  "hardpointGlowSprite": "graphics/jg/weapons/diableavionics_diurne_hardpoint_glow.png",
+  "glowColor": [
+    232,
+    128,
+    35,
+    255
+  ],
+  "hitGlowRadius": 0,
+  "turretOffsets": [
+    21,
+    0
+  ],
+  "turretAngleOffsets": [
+    0
+  ],
+  "hardpointOffsets": [
+    30,
+    0
+  ],
+  "hardpointAngleOffsets": [
+    0
+  ],
+  "fringeColor": [
+    41,
+    15,
+    155,
+    255
+  ],
+  "coreColor": [
+    238,
+    255,
+    239,
+    255
+  ],
+  "width": 10,
+  "textureType": WEAVE,
+  "textureScrollSpeed": 16,
+  "pixelsPerTexel": 5,
+  "pierceSet": [
+    PROJECTILE_FF,
+    PROJECTILE_NO_FF,
+    PROJECTILE_FIGHTER
+  ],
+  "fireSoundOne": "diableavionics_state_firing",
+  "fireSoundTwo": "diableavionics_state_loop"
 }

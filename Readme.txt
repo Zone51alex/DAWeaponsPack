@@ -1,2 +1,1 @@
-to get the Junker Guild weapons and Ships get DA's Respective's Blueprint Packages simple as that
-.
+to get the Junker Guild weapons and Ships get DA's Respective's Blueprint Packages simple as that also its a Dev item.

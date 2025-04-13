@@ -1,0 +1,41 @@
+{
+    "displayName": "Brawler",
+    "fluxCapacitors": 10,
+    "fluxVents": 8,
+    "hullId": "diableavionics_vapor",
+    "hullMods": [
+        "fluxbreakers",
+        "fluxcoil",
+        "hardenedshieldemitter",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "diableavionics_vapor_Brawler",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0003": "diableavionics_banishsmall",
+                "WS0004": "diableavionics_banishsmall",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0001": "diableavionics_glowtusk",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0002": "diableavionics_gravemg",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

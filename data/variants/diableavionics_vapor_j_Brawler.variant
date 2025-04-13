@@ -1,13 +1,13 @@
 {
     "displayName": "Brawler",
     "fluxCapacitors": 10,
-    "fluxVents": 9,
+    "fluxVents": 8,
     "goalVariant": true,
     "hullId": "diableavionics_vapor_j",
     "hullMods": [
         "fluxbreakers",
         "fluxcoil",
-        "targetingunit",
+        "hardenedshieldemitter",
     ],
     "permaMods": [
     ],

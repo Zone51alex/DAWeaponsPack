@@ -1,12 +1,11 @@
 {
     "displayName": "Standard",
-    "fluxCapacitors": 7,
-    "fluxVents": 0,
+    "fluxCapacitors": 4,
+    "fluxVents": 10,
     "goalVariant": true,
     "hullId": "diableavionics_vapor_j",
     "hullMods": [
-        "hardened_subsystems",
-        "safetyoverrides",
+        "fluxbreakers",
     ],
     "permaMods": [
     ],
@@ -18,16 +17,16 @@
             "autofire": false,
             "mode": "ALTERNATING",
             "weapons": {
-                "WS0003": "diableavionics_banishsmall",
-                "WS0004": "diableavionics_banishsmall",
+                "WS0001": "diableavionics_mostro_medium",
+                "WS0002": "diableavionics_mostro_medium",
             }
         },
         {
             "autofire": true,
-            "mode": "LINKED",
+            "mode": "ALTERNATING",
             "weapons": {
-                "WS0001": "diableavionics_nocturne",
-                "WS0002": "diableavionics_nocturne",
+                "WS0003": "diableavionics_recson",
+                "WS0004": "diableavionics_recson",
             }
         },
     ],
