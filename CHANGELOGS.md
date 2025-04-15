@@ -1,7 +1,7 @@
 Version 0.4.2.4
 
 * the cheiftain now has Mite Drones, Basically an alternative minning laser with easy to destroy drones.
-* New weapon the Urn Strike Laser (Beta and Alpha) Beta is based on the antimatter blaster while the Alpha is based on the Uhlan.
+* New weapon the Urn Strike Laser an Energy Strike weapon based on the Uhlan Seige Laser and the Antimatter Blaster.
 * File Cleanup Did for the .jar and the file structure everything should be all organized.
 
 Version 0.4.2.3
