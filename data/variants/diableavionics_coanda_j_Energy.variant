@@ -23,9 +23,9 @@
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS0003": "diableavionics_urn2",
-                "WS0004": "diableavionics_urn2",
-                "WS0005": "diableavionics_urn2",
+                "WS0003": "diableavionics_urn",
+                "WS0004": "diableavionics_urn",
+                "WS0005": "diableavionics_urn",
             }
         },
         {
