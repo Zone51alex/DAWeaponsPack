@@ -1,11 +1,10 @@
 {
     "displayName": "Standard",
-    "fluxCapacitors": 10,
+    "fluxCapacitors": 14,
     "fluxVents": 20,
     "goalVariant": true,
     "hullId": "diableavionics_miniGust_j",
     "hullMods": [
-        "jg_salvagewingcon",
         "targetingunit",
     ],
     "permaMods": [],
@@ -39,15 +38,21 @@
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS0004": "diableavionics_recson",
-                "WS0005": "diableavionics_recson",
                 "WS0003": "diableavionics_recson",
                 "WS0002": "diableavionics_recson",
+                "WS0004": "diableavionics_recson",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0005": "diableavionics_burchel",
             }
         },
     ],
     "wings": [
-        "diableavionics_hoar_wing",
+        "diableavionics_arbitrator_wing",
     ],
     "modules": [],
 }

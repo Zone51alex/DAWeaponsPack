@@ -1,35 +1,34 @@
 {
     "displayName": "Flagship",
-    "fluxCapacitors": 18,
-    "fluxVents": 25,
+    "fluxCapacitors": 17,
+    "fluxVents": 30,
     "goalVariant": true,
     "hullId": "diableavionics_daze_EX",
     "hullMods": [
         "magazines",
         "targetingunit",
     ],
-    "permaMods": [
-    ],
+    "permaMods": [],
     "sMods": [],
     "suppressedMods": [],
     "variantId": "diableavionics_daze_EX_Flagship",
     "weaponGroups": [
         {
             "autofire": false,
-            "mode": "LINKED",
-            "weapons": {
-                "WS0001": "diableavionics_plow",
-                "WS0003": "diableavionics_plow",
-                "WS0002": "diableavionics_plow",
-                "WS0004": "diableavionics_plow",
-            }
-        },
-        {
-            "autofire": true,
-            "mode": "LINKED",
+            "mode": "ALTERNATING",
             "weapons": {
                 "WS0005": "diableavionics_microcluster2",
                 "WS0006": "diableavionics_microcluster2",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0001": "diableavionics_banishsmall",
+                "WS0003": "diableavionics_banishsmall",
+                "WS0002": "diableavionics_banishsmall",
+                "WS0004": "diableavionics_banishsmall",
             }
         },
         {

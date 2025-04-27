@@ -1,7 +1,7 @@
 {
     "displayName": "Support",
-    "fluxCapacitors": 4,
-    "fluxVents": 30,
+    "fluxCapacitors": 30,
+    "fluxVents": 2,
     "goalVariant": true,
     "hullId": "diableavionics_chieftain_EX",
     "hullMods": [
@@ -21,7 +21,7 @@
         },
         {
             "autofire": false,
-            "mode": "ALTERNATING",
+            "mode": "LINKED",
             "weapons": {
                 "WS0014": "diableavionics_micromissile",
                 "WS0016": "diableavionics_micromissile",
@@ -32,8 +32,8 @@
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS0005": "diableavionics_srab",
-                "WS0004": "diableavionics_srab",
+                "WS0005": "diableavionics_urn2",
+                "WS0004": "diableavionics_urn2",
             }
         },
         {
@@ -56,9 +56,6 @@
             }
         },
     ],
-    "wings": [
-	"diableavionics_mite_drone_wing",
-    "diableavionics_mite_drone_wing",
-	],
+    "wings": [],
     "modules": [],
 }

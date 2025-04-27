@@ -1,30 +1,31 @@
 {
-    "displayName": "Supressor",
-    "fluxCapacitors": 3,
-    "fluxVents": 16,
+    "displayName": "Energy",
+    "fluxCapacitors": 9,
+    "fluxVents": 20,
     "goalVariant": true,
     "hullId": "diableavionics_miniGust_j",
     "hullMods": [
-        "targetingunit",
+        "magazines",
+        "unstable_injector",
     ],
     "permaMods": [],
     "sMods": [],
     "suppressedMods": [],
-    "variantId": "diableavionics_miniGust_j_Supressor",
+    "variantId": "diableavionics_miniGust_j_Energy",
     "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0006": "diableavionics_microcluster",
+            }
+        },
         {
             "autofire": false,
             "mode": "ALTERNATING",
             "weapons": {
-                "WS0007": "diableavionics_banishsmall",
                 "WS0008": "diableavionics_banishsmall",
-            }
-        },
-        {
-            "autofire": true,
-            "mode": "LINKED",
-            "weapons": {
-                "WS0006": "diableavionics_microcluster",
+                "WS0007": "diableavionics_banishsmall",
             }
         },
         {
@@ -35,18 +36,30 @@
             }
         },
         {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0003": "diableavionics_urn",
+                "WS0004": "diableavionics_urn",
+            }
+        },
+        {
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS0002": "diableavionics_burchel",
-                "WS0003": "diableavionics_burchel",
-                "WS0004": "diableavionics_burchel",
+                "WS0002": "diableavionics_winee",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
                 "WS0005": "diableavionics_burchel",
             }
         },
     ],
     "wings": [
-        "diableavionics_zephyr_wing",
+        "diableavionics_arbitrator_wing",
     ],
     "modules": [],
 }

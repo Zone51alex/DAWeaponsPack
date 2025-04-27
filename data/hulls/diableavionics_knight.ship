@@ -18,7 +18,7 @@
     "viewOffset": 0,
     "builtInWeapons": {
         "LEFT": "diableavionics_knightarm",
-        "RIGHT": "diableavionics_knightgun",
+        "RIGHT": "diableavionics_knightmelee",
         "WS_HEAD": "diableavionics_knighthead",
         "PAULDRON": "diableavionics_knightpauldron"
     },

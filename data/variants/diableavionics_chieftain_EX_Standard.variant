@@ -50,9 +50,6 @@
             }
         },
     ],
-    "wings": [
-	"diableavionics_mite_drone_wing",
-    "diableavionics_mite_drone_wing",
-	],
+    "wings": [],
     "modules": [],
 }

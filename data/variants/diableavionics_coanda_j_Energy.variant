@@ -1,11 +1,11 @@
 {
     "displayName": "Energy",
-    "fluxCapacitors": 14,
+    "fluxCapacitors": 16,
     "fluxVents": 20,
     "goalVariant": true,
     "hullId": "diableavionics_coanda_j",
     "hullMods": [
-        "fluxdistributor",
+        "fluxbreakers",
     ],
     "permaMods": [],
     "sMods": [],
@@ -16,16 +16,16 @@
             "autofire": false,
             "mode": "LINKED",
             "weapons": {
-                "WS0001": "diableavionics_plover",
+                "WS0003": "diableavionics_urn",
+                "WS0005": "diableavionics_urn",
+                "WS0004": "diableavionics_urn",
             }
         },
         {
-            "autofire": true,
+            "autofire": false,
             "mode": "LINKED",
             "weapons": {
-                "WS0003": "diableavionics_urn",
-                "WS0004": "diableavionics_urn",
-                "WS0005": "diableavionics_urn",
+                "WS0001": "diableavionics_plover",
             }
         },
         {

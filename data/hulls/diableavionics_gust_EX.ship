@@ -13,8 +13,7 @@
   "viewOffset": 0,
   "builtInMods": [
     "EX_Impthrusters",
-    "diableavionics_universaldecksExtra",
-	"missile_autoloader"
+    "diableavionics_universaldecksExtra"
   ],
   "builtInWings": [
     "diableavionics_crow_wing"

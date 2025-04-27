@@ -2,7 +2,6 @@ id,type,text1,text2,text3,notes
 ,,,,,
 #SHIP,,,,,
 ,,,,,
-,,,,,
 diableavionics_miniGust_j,SHIP,"While ostensibly related to the regular Gust-class hull design, it is unclear whether this model was a small scale prototype that turned out too performant to be put aside or rather was a successful miniaturization attempt. In any case the Pocket-Gust translates what made its bigger brother good as a light cruiser into an even nimbler Destroyer frame. 
 
 This ship has been Restored from a Destroyed Ship to Near Standard Spec but was unable to restore the Remote control due to the lack of Specialized Parts, so instead they added a Plasma Jets system to it.",,,
@@ -34,8 +33,9 @@ The Engineering & Salvage Team Tested this Ship in Sim Tests and found it Lackin
 This Rime has Been Silghtly Improved with a new small Mount in front of the medium mount.
 
 The junker's guild restored these ships and modified them with their favourite system plasma burn.",,,
+diableavionics_chieftain_EX,SHIP,The Junk Cruiser Built during The Hedgemony Counter-invasion and is immortolized as Junker's Guild Main Flagship to field for Fleet commanders.,,,
 ,,,,,
-# VERSANT Guns,,,,,
+# VERSANT,,,,,
 ,,,,,
 diableavionics_versant_j_harvest_LEFT,WEAPON,An energized projectile accelerator with limited output per shot but a decent fire-rate and superb projectile speed. Special dampeners housed in the base of the weapon allows it to keep rounds on target even during continuous firing at extreme accelerations.,Assault,,
 diableavionics_versant_j_harvestB_LEFT,WEAPON,An energized projectile accelerator with limited output per shot but a decent fire-rate and superb projectile speed. Special dampeners housed in the base of the weapon allows it to keep rounds on target even during continuous firing at extreme accelerations.,Assault,,
@@ -57,6 +57,19 @@ diableavionics_versant_EX_harvest_RIGHT,WEAPON,An energized projectile accelerat
 diableavionics_versant_EX_harvestB_RIGHT,WEAPON,An energized projectile accelerator with limited output per shot but a decent fire-rate and superb projectile speed. Special dampeners housed in the base of the weapon allows it to keep rounds on target even during continuous firing at extreme accelerations.,Assault,,
 diableavionics_versant_EX_harvestC_RIGHT,WEAPON,An energized projectile accelerator with limited output per shot but a decent fire-rate and superb projectile speed. Special dampeners housed in the base of the weapon allows it to keep rounds on target even during continuous firing at extreme accelerations.,Assault,,
 ,,,,,
+#Wanzers/Fighters/Drones,,,,,
+,,,,,
+diableavionics_crow,SHIP,Junkers Guild Mcgyver-esque Skill Made this Odd Raven Wanzer into an Energy Monster However Diable Could'nt Mass-Produce it due to the Exotic Materials used in the Design.,,,
+diableavionics_knight,SHIP,"A Heavly Modified Warlust Wanzer Used in Jousting Duels, Junkers Guild used them in Combat instead.",,,
+diableavionics_mite_drone,SHIP,"A Modified Warlust Drone with a Multi-tool Laser used for Salvage,Repairs and in emegencies, Combat.",,,
+,,,,,
+#BUILTIN,,,,,
+,,,,,
+diableavionics_heemeyer,WEAPON,"Created from Leftovers of a Versant Havest Guns into the State Support Beam Chasis to create a new weapon.
+However Diable Halted its production after the first prototype on a Flagship due to Material issues. ",Assault,,
+diableavionics_raycast,WEAPON,"Created from Leftovers of a Versant Havest Guns into the State Support Beam Chasis to create a new weapon.
+ However Diable Halted its production after the first prototype on a Flagship due to Material issues. ",Assault,,
+,,,,,
 #WEAPONS,,,,,
 ,,,,,
 diableavionics_mostro_medium,WEAPON,"a Miniaturized Version of the Mostro Cannon Array Created by The Engineering & Salvage Team of Diable Avionics
@@ -70,23 +83,23 @@ The Prototype Variant of the Second Weapon ""Nail"" Project for the Engineering 
 diableavionics_buckshot,WEAPON,"an Upsize and Modified version of the snowball shotgun, with Monstruous Burst DPS and Poor Flux Efficiency.
 
 The Third Project by The Engineering & Salvage Team nicknamed ""Buckshot"" to restore the old Snowball's Fearsome Legacy of the Avalanche Wanzer's Signature weapon in Medium size Weaponry.",Strike,,
-diableavionics_diurne,WEAPON,"An intermediate beam weapon consisting of a pair of linked positron emitters. Lower range compared to contemporary beams put packs a superior punch.
+diableavionics_diurne,WEAPON,"An intermediate beam weapon consisting of a  positron emitter. Lower range compared to contemporary beams put packs a superior punch.
 
-Junker's Guild Was Disapointed with the State beam's Effective role during simulated tests aganist the Persean Sector
-which Failed on doing any good Impact on any combat except for ships with no Shields.
-instead being Outshined by The Nocturne in Utility and Effective take downs from other engagements.
-
-Intead they modified the State Beam array as a Constant Beam instead to Combo up with the Nocturne.",Assault,,
+Junker's Guild had to shore up their Anti-armor Capabilities on a cheap Price, so they took the State Beam array and made a Single Barrel version of it.",Assault,,
 diableavionics_plow,WEAPON,"Predecessors of the FV-24 ""Thunderbolt"" missiles, these high-power rockets use the same type of nuclear shaped-charge warhead mounted on top of a solid rocket motor with basic attitude stabilization.
 
 The FV-16X ""Plow"" is a Rocket Pod with half the effective Salvo of the Plover Rocket Pod,
 this weapon was Discontinued by Diableavionics before entry to the Persean Sector,
 The Engineering & Salvage Team Dusted off the old Blueprint for Production due to the events in the Persean Sector.",Assault,,
-diableavionics_heemeyer,WEAPON,"Created from Leftovers of a Versant Havest Guns into the State Support Beam Chasis to create a new weapon.
-However Diable Halted its production after the first prototype on a Flagship due to Material issues. ",Assault,,
-"Heemeyer ""Raycast"" Cannon",WEAPON,"Created from Leftovers of a Versant Havest Guns into the State Support Beam Chasis to create a new weapon.
- However Diable Halted its production after the first prototype on a Flagship due to Material issues. ",Assault,,
 diableavionics_hexafire_large,WEAPON,"you know you’re not supposed to have this ?, its just a Filler Weapon until I find a way to make a decent weapon for that spot.",Assault,,
+diableavionics_reioibox,WEAPON,"The FV-04 Huntsmen an Ancient Missile used in Early surface-to-air Takedowns, the design was eventually restored and retrofitted into a MagicBox chassis since the previous chassis was too Obsolete for the current warfrare.",,,
+diableavionics_gravemac,WEAPON,a Stripped down Grave LAC to help Low end Carriers and other Ships lacking Proper Anti-shield Weaponry to push off the odd Frigate that attacks them.,,,
+diableavionics_urn,WEAPON,"A powerful heavy weapon formerly used to soften up offending stations. Improvements in targeting systems and refinements of the muzzle geometry improved the accuracy enough to make a serviceable anti-ship weapon: Difficult to install and unreliable, but quite devastating when it connects. 
+
+The Small Variant of this Weapon is used to shore up Options for Hit-and-run Ships Diable has.",,,
+diableavionics_urn2,WEAPON,"A powerful heavy weapon formerly used to soften up offending stations. Improvements in targeting systems and refinements of the muzzle geometry improved the accuracy enough to make a serviceable anti-ship weapon: Difficult to install and unreliable, but quite devastating when it connects. 
+
+This Medium Variant of the Fearsome Weapon is used for long Rang esupport Ships.",,,
 ,,,,,
 #EX SHIPS,,,,,
 ,,,,,
@@ -96,9 +109,9 @@ This Ship has been Fine Turned with Improved Thrusters, and Along with Junker's 
 diableavionics_versant_EX,SHIP,"One of the very last pre-Collapse designs the local branch of the Diable Avionics Corporation got its hands on before being abruptly cut-off. It features a mobile frame that can manipulate its shape to increase raw speed, or maneuverability. Advanced integrated weaponry and the latest version of the Diable Avionics's Quantum Targeting Prediction software(TM) come pre-installed.
 
 Some Hotshot Pilot wanted a Restored Versant to use for his bounty work with Junker's Guild, ends up finding a Derelict and Provided the funds to restore it, somehow Not only Restoring it to Original Specs but also Taking care of the of the High Pitched Noise into a Calming Hum.
-Diable took an interest in testing and adding it to the standard Versant features, ship Combat and Basic Flight test Proved Normal, the System test showed Higher than normal Energy Output, upon Checking the Gyroscope Compartment Immediately Stopped Everything and just Restored the Odd Versant to current specs and Told all parties involved to not speak of it, Because Junker's Guild Accidently Created Phase Tech for Diable Avionics.
+Diable took an interest in testing and adding it to the standard Versant features, ship Combat and Basic Flight test Proved Normal, the System test showed Higher than normal Energy Output, upon Checking the Gyroscope Compartment Immediately Stopped Everything and just Restored the Odd Versant to current specs and Told all parties involved to not speak of it, Because Junker's Guild Accidently Created [REDACTED] Tech for Diable Avionics.
 
-Can be upgraded later on to take advantage of Phase Tech.",,,
+Can be upgraded later on to take advantage of [REDACTED] Tech.",,,
 diableavionics_calm_EX,SHIP,"Meant for general support of fleet operations, the Calm-class boasts high-speed Pulse Engines and a front-loaded weapon layout making it suitable for many offensive roles. 
 ",,,
 diableavionics_vapor_EX,SHIP,"A nimble ultralight frigate chassis with a heavy frontal armament. Capable of disrupting fleet operations easily despite its sub-par point defense weapon mounts. 
@@ -109,11 +122,13 @@ diableavionics_storm_EX,SHIP,"Tough and versatile, this carrier gives its justif
 
 An Old Revision of the Storm was used as a Cargo Ship during the colonization of Sivie and then Found During the counter-invasion and fielded Back to fight aganist the Hedgemony counter-invasion Armada.
 ",,,
+diableavionics_superrime_EX,SHIP,"a Persudo EXperimental Flagship with one Extra Small Mount, with an Upgraded Plasma Hypershunt. ",,,
 ,,,,,
 #SYSTEM,,,,,
 ,,,,,
-diableavionics_driftcompact,SHIP_SYSTEM,"A failed capital class flicker core that only allows quick re-orient rather than full ship displacement, its been Minaturized and Enhanced and Tinted with Gold still a Prototype.",Movement,"Rapidly reorients the ship in the desired bearing with a nudge in the velocity direction. Drains a small amount of flux, especially when the shields are down.",
+diableavionics_driftcompact,SHIP_SYSTEM,"A failed capital class flicker core that only allows quick re-orient rather than full ship displacement, its been Minaturized and Enhanced and Tinted with Gold, still a Prototype.",Movement,"Rapidly reorients the ship in the desired bearing with a nudge in the velocity direction. Drains a small amount of flux, especially when the shields are down.",
+diableavionics_driftflagship,SHIP_SYSTEM,"A failed capital class flicker core that only allows quick re-orient rather than full ship displacement, its been Minaturized and Enhanced, still a Prototype.",Movement,"Rapidly reorients the ship in the desired bearing with a nudge in the velocity direction. Drains a small amount of flux, especially when the shields are down.",
 ,,,,,
 #FACTION,,,,,
 ,,,,,
-junkersguild,FACTION,,,,
+junkersguild,FACTION,"Also Known as Diable Avionics Salvage & Engineering Team, Handles Ship Production and Salvage to keep the Faction in Fighting Fit.",,,

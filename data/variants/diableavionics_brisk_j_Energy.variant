@@ -1,6 +1,6 @@
 {
     "displayName": "Energy",
-    "fluxCapacitors": 9,
+    "fluxCapacitors": 5,
     "fluxVents": 10,
     "goalVariant": true,
     "hullId": "diableavionics_brisk_j",
@@ -23,7 +23,7 @@
         },
         {
             "autofire": false,
-            "mode": "ALTERNATING",
+            "mode": "LINKED",
             "weapons": {
                 "WS0005": "diableavionics_microbuiltin",
                 "WS0006": "diableavionics_microbuiltin",
@@ -33,14 +33,14 @@
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS0002": "diableavionics_winee",
+                "WS0001": "diableavionics_winee",
             }
         },
         {
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS0001": "diableavionics_ibis",
+                "WS0002": "diableavionics_ibis",
             }
         },
     ],

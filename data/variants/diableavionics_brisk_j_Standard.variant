@@ -33,14 +33,14 @@
             "autofire": false,
             "mode": "LINKED",
             "weapons": {
-                "WS0002": "diableavionics_glownail",
+                "WS0001": "diableavionics_glownail",
             }
         },
         {
-            "autofire": true,
+            "autofire": false,
             "mode": "LINKED",
             "weapons": {
-                "WS0001": "diableavionics_ibis",
+                "WS0002": "diableavionics_ibis",
             }
         },
     ],

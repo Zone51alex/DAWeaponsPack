@@ -43,16 +43,13 @@
                 "WS0012": "diableavionics_ibis",
                 "WS0023": "diableavionics_ibis",
                 "WS0022": "diableavionics_ibis",
-                "WS0013": "diableavionics_ibis",
                 "WS0024": "diableavionics_ibis",
+                "WS0013": "diableavionics_ibis",
                 "WS0010": "diableavionics_ibis",
                 "WS0009": "diableavionics_ibis",
             }
         },
     ],
-    "wings": [
-	"diableavionics_mite_drone_wing",
-    "diableavionics_mite_drone_wing",
-	],
+    "wings": [],
     "modules": [],
 }

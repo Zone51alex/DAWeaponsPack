@@ -1,13 +1,152 @@
 {
     id:"diableavionics",
 
+"shipsWhenImporting":{
+        "tags":["base_bp","diable_ship_bp","diable_jg_bp"],
+        "hulls":[
+            "diableavionics_draft",
+            "diableavionics_sleet",
+            "diableavionics_vapor",
+            "diableavionics_versant",
+
+            "diableavionics_laminar",
+            "diableavionics_shear",
+
+            "diableavionics_calm",
+            "diableavionics_hayle",
+            "diableavionics_coanda",
+            "diableavionics_derecho",
+            "diableavionics_miniGust",
+            "diableavionics_fractus",
+
+            "diableavionics_chinook",
+            "diableavionics_stratus",
+            "diableavionics_cirrus",
+
+            "diableavionics_haze",
+            "diableavionics_daze",
+            "diableavionics_gust",
+            "diableavionics_storm",
+            "diableavionics_rime_m",
+
+            "diableavionics_rime",
+
+            "diableavionics_maelstrom",
+            "diableavionics_pandemonium",
+        ],
+    },
+
+    "knownShips":{
+        "tags":["diable_ship_bp"],
+        "hulls":[
+            "diableavionics_draft",
+            "diableavionics_sleet",
+            "diableavionics_vapor",
+            "diable_brisk",
+            "diableavionics_versant",
+
+            "diableavionics_laminar",
+            "diableavionics_shear",
+
+            "diableavionics_calm",
+            "diableavionics_hayle",
+            "diableavionics_coanda",
+            "diableavionics_derecho",
+            "diableavionics_miniGust",
+            "diable_polarV",
+            "diableavionics_fractus",
+
+            "diableavionics_chinook",
+            "diableavionics_stratus",
+            "diableavionics_cirrus",
+
+            "diableavionics_haze",
+            "diableavionics_daze",
+            "diableavionics_gust",
+            "diable_riptide",
+            "diable_ashfall",
+            "diableavionics_storm",
+            "diableavionics_rime_m",
+
+            "diableavionics_rime",
+
+            "diableavionics_maelstrom",
+            "diableavionics_pandemonium",
+        ],
+    },
+
+    # listing ships here will make the faction mostly use them even if other hulls become available
+    "priorityShips":{
+        "tags":["diable_ship_bp","diable_jg_bp"],
+        "hulls":[
+            "diableavionics_draft",
+            "diableavionics_sleet",
+            "diableavionics_vapor",
+            "diable_brisk",
+            "diableavionics_versant",
+
+            "diableavionics_laminar",
+            "diableavionics_shear",
+
+            "diableavionics_calm",
+            "diableavionics_hayle",
+            "diableavionics_coanda",
+            "diableavionics_derecho",
+            "diable_polarV",
+            "diableavionics_miniGust",
+            "diableavionics_fractus",
+
+            "diableavionics_chinook",
+            "diableavionics_stratus",
+            "diableavionics_cirrus",
+
+            "diableavionics_haze",
+            "diableavionics_daze",
+            "diableavionics_gust",
+            "diable_riptide",
+            "diable_ashfall",
+            "diableavionics_storm",
+            "diableavionics_rime_m",
+
+            "diableavionics_rime",
+
+            "diableavionics_maelstrom",
+            "diableavionics_pandemonium",
+        ],
+    },
+
+    "knownFighters":{
+        "tags":[
+            #"base_bp",
+            #"hightech_bp",
+            #"midline_bp",
+            #"diable_ship_bp",
+            "diable_wanzer_bp",
+			"diable_jg_bp"
+            ],
+        "fighters":[
+            "diableavionics_arbitrator_wing",
+            "diableavionics_arbitratorZ_wing",
+            "diableavionics_frost_wing",
+            "diableavionics_hoar_wing",
+            "diableavionics_strife_wing",
+            "diableavionics_warlust_wing",
+            "diableavionics_valiant_wing",
+            "diableavionics_raven_wing",
+            "diableavionics_blizzaia_wing",
+            "diableavionics_zephyr_wing",
+            "diableavionics_avalanche_wing",
+        ],
+    },
+
     "knownWeapons":{
         "tags":[
             #"base_bp",
             #"missile_bp",
             #"hightech_bp",
             #"midline_bp",
-            "diable_weapon_bp"
+            "diable_weapon_bp",
+			"diable_jg_bp"
             ],
         "weapons":[
 			"diableavionics_diurne",
