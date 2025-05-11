@@ -1,6 +1,6 @@
 {
     "displayName": "Support",
-    "fluxCapacitors": 12,
+    "fluxCapacitors": 10,
     "fluxVents": 9,
     "goalVariant": true,
     "hullId": "diableavionics_rime_m_j",
@@ -22,7 +22,7 @@
         },
         {
             "autofire": false,
-            "mode": "LINKED",
+            "mode": "ALTERNATING",
             "weapons": {
                 "WS0011": "diableavionics_microbuiltin",
                 "WS0002": "diableavionics_microbuiltin",
@@ -36,7 +36,7 @@
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS0001": "diableavionics_urn2",
+                "WS0001": "diableavionics_nocturne",
             }
         },
         {
@@ -50,8 +50,8 @@
         },
     ],
     "wings": [
-        "diableavionics_warlust_wing",
-        "diableavionics_warlust_wing",
+        "diableavionics_knight_wing",
+        "diableavionics_knight_wing",
     ],
     "modules": [],
 }

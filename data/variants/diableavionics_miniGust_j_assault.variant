@@ -1,12 +1,11 @@
 {
     "displayName": "Assault",
-    "fluxCapacitors": 10,
-    "fluxVents": 12,
+    "fluxCapacitors": 9,
+    "fluxVents": 20,
     "goalVariant": true,
     "hullId": "diableavionics_miniGust_j",
     "hullMods": [
-        "fluxbreakers",
-        "jg_salvagewingcon",
+        "sotf_elitepilots",
         "targetingunit",
         "unstable_injector",
     ],
@@ -34,14 +33,15 @@
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS0001": "diableavionics_gravemg",
+                "WS0001": "diableavionics_recson2",
             }
         },
         {
-            "autofire": false,
+            "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS0005": "diableavionics_glownail",
+                "WS0005": "diableavionics_artassault",
+                "WS0004": "diableavionics_artassault",
             }
         },
         {
@@ -50,7 +50,6 @@
             "weapons": {
                 "WS0003": "diableavionics_ibis",
                 "WS0002": "diableavionics_ibis",
-                "WS0004": "diableavionics_ibis",
             }
         },
     ],

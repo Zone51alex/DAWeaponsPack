@@ -1,30 +1,28 @@
 {
     "displayName": "Attack",
-    "fluxCapacitors": 4,
-    "fluxVents": 10,
+    "fluxCapacitors": 10,
+    "fluxVents": 7,
     "goalVariant": true,
     "hullId": "diableavionics_vapor_j",
     "hullMods": [
-        "hardenedshieldemitter",
         "targetingunit",
     ],
-    "permaMods": [
-    ],
+    "permaMods": [],
     "sMods": [],
     "suppressedMods": [],
     "variantId": "diableavionics_vapor_j_Attack",
     "weaponGroups": [
         {
             "autofire": false,
-            "mode": "LINKED",
+            "mode": "ALTERNATING",
             "weapons": {
-                "WS0001": "diableavionics_srab",
-                "WS0002": "diableavionics_srab",
+                "WS0001": "diableavionics_urn2",
+                "WS0002": "diableavionics_urn2",
             }
         },
         {
-            "autofire": true,
-            "mode": "LINKED",
+            "autofire": false,
+            "mode": "ALTERNATING",
             "weapons": {
                 "WS0003": "diableavionics_micromissile",
                 "WS0004": "diableavionics_micromissile",

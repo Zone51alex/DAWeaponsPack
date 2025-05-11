@@ -1,7 +1,7 @@
 {
     "displayName": "Support",
-    "fluxCapacitors": 30,
-    "fluxVents": 2,
+    "fluxCapacitors": 13,
+    "fluxVents": 35,
     "goalVariant": true,
     "hullId": "diableavionics_chieftain_EX",
     "hullMods": [
@@ -16,24 +16,24 @@
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS0001": "diableavionics_uhlan",
+                "WS0001": "diableavionics_hexafire2",
             }
         },
         {
             "autofire": false,
-            "mode": "LINKED",
+            "mode": "ALTERNATING",
             "weapons": {
-                "WS0014": "diableavionics_micromissile",
-                "WS0016": "diableavionics_micromissile",
-                "WS0015": "diableavionics_micromissile",
+                "WS0014": "diableavionics_banishsmall",
+                "WS0016": "diableavionics_banishsmall",
+                "WS0015": "diableavionics_banishsmall",
             }
         },
         {
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS0005": "diableavionics_urn2",
-                "WS0004": "diableavionics_urn2",
+                "WS0005": "diableavionics_diurne",
+                "WS0004": "diableavionics_diurne",
             }
         },
         {

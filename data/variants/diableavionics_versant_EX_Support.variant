@@ -1,18 +1,18 @@
 {
-    "displayName": "Flagship",
+    "displayName": "Support",
     "fluxCapacitors": 10,
     "fluxVents": 5,
     "goalVariant": true,
     "hullId": "diableavionics_versant_EX",
     "hullMods": [
-        "diableavionics_selector_burst",
+        "diableavionics_selector_semi",
         "fluxcoil",
         "unstable_injector",
     ],
     "permaMods": [],
     "sMods": [],
     "suppressedMods": [],
-    "variantId": "diableavionics_versant_EX_Flagship",
+    "variantId": "diableavionics_versant_EX_Support",
     "weaponGroups": [
         {
             "autofire": false,
@@ -33,8 +33,8 @@
             "autofire": false,
             "mode": "LINKED",
             "weapons": {
-                "GUN_LEFT": "diableavionics_versant_harvestB_LEFT",
-                "GUN_RIGHT": "diableavionics_versant_harvestB_RIGHT",
+                "GUN_LEFT": "diableavionics_versant_harvestC_LEFT",
+                "GUN_RIGHT": "diableavionics_versant_harvestC_RIGHT",
             }
         },
     ],

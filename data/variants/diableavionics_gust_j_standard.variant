@@ -1,13 +1,13 @@
 {
     "displayName": "Standard",
-    "fluxCapacitors": 22,
+    "fluxCapacitors": 14,
     "fluxVents": 30,
     "goalVariant": true,
     "hullId": "diableavionics_gust_j",
     "hullMods": [
         "auxiliarythrusters",
-        "fluxbreakers",
         "jg_salvagewingcon",
+        "stabilizedshieldemitter",
         "targetingunit",
     ],
     "permaMods": [],
@@ -16,20 +16,20 @@
     "variantId": "diableavionics_gust_j_Standard",
     "weaponGroups": [
         {
-            "autofire": false,
-            "mode": "ALTERNATING",
-            "weapons": {
-                "WS0003": "diableavionics_banishsmall",
-                "WS0004": "diableavionics_banishsmall",
-                "WS0005": "diableavionics_banishsmall",
-                "WS0006": "diableavionics_banishsmall",
-            }
-        },
-        {
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
                 "WS0001": "diableavionics_recson3",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0003": "diableavionics_reioibox",
+                "WS0005": "diableavionics_reioibox",
+                "WS0004": "diableavionics_reioibox",
+                "WS0006": "diableavionics_reioibox",
             }
         },
         {
@@ -43,13 +43,13 @@
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS0008": "diableavionics_ibis",
-                "WS0009": "diableavionics_ibis",
-                "WS0007": "diableavionics_ibis",
-                "WS0014": "diableavionics_ibis",
-                "WS0015": "diableavionics_ibis",
                 "WS0011": "diableavionics_ibis",
+                "WS0014": "diableavionics_ibis",
                 "WS0010": "diableavionics_ibis",
+                "WS0009": "diableavionics_ibis",
+                "WS0008": "diableavionics_ibis",
+                "WS0015": "diableavionics_ibis",
+                "WS0007": "diableavionics_ibis",
             }
         },
     ],

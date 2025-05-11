@@ -1,18 +1,10 @@
 {
   "id": "diableavionics_knightarm",
-  "specClass": "beam",
-  "projectileSpecId": "data.scripts.weapons.Diableavionics_fastBurstsEffect",
-  "type": "ENERGY",
+  "specClass":"projectile",
+  "type":"MISSILE",
   "size": "MEDIUM",
-  "collisionClass": "RAY",
-  "collisionClassByFighter": "RAY_FIGHTER",
-  "displayArcRadius": 600,
-  "turretSprite": "graphics/jg/ships/knight/diableavionics_knightarm.png",
-  "turretGlowSprite": "graphics/jg/ships/knight/diableavionics_knightarm_glow.png",
+  "turretSprite": "graphics/jg/ships/knight/diableavionics_knight_reioi.png",
   "hardpointSprite": "",
-  "glowColor":[200,100,160,200],
-  "coreColor":[255,125,225,200],
-  "fringeColor":[25,55,200,50],
   "turretOffsets": [
     21,
     0
@@ -27,17 +19,19 @@
   "hardpointAngleOffsets": [   
     0
   ],
- "hitGlowRadius": 0,
-  "darkCore": true,
-  "width": 12,
-  "textureType": ROUGH,
-  "textureScrollSpeed": 128,
-  "pixelsPerTexel": 5,
-  "pierceSet": [
-    PROJECTILE_FF,
-    PROJECTILE_NO_FF,
-    PROJECTILE_FIGHTER
-  ]
-  #"fireSoundOne": "diableavionics_lazyhorn_charge",
-  #"fireSoundTwo": "diableavionics_lazyhorn_firing"
+ "barrelMode":"LINKED",
+	"animationType":"SMOKE",
+	"smokeSpec":{"particleSizeMin":10.0,
+				 "particleSizeRange":14.0,
+				 "cloudParticleCount":2,
+				 "cloudDuration":1.4,
+				 "cloudRadius":11.0;
+				 "blowbackParticleCount":3,
+				 "blowbackDuration":0.33,
+				 "blowbackLength":33.0,
+				 "blowbackSpread":33.0,
+				 "particleColor":[190,180,160,95]},
+	"autocharge":true,
+	"projectileSpecId":"diableavionics_ragemissile",
+	"fireSoundTwo":"diableavionics_magic_firing",
 }
