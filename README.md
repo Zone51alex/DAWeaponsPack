@@ -3,4 +3,4 @@ kitbashed from the Mostro Cannon array a Large Ballistic Mount,compliments well 
 Kitbashed Glowtusk into a Small Mount Strike Weapon with the same Damage BUT Very long Reload.
 kitbashed Artassault into a Snowball shotgun medium Mount with PD utility 4 shot with spread 4 projectiles each shot.
 
-Feel free to join the SPace Lounge on Discord : https://discord.gg/QFYrZwg2Qf
+Feel free to join the Space Lounge on Discord : https://discord.gg/QFYrZwg2Qf
