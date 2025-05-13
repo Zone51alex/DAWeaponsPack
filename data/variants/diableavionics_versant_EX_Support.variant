@@ -1,12 +1,11 @@
 {
     "displayName": "Support",
     "fluxCapacitors": 10,
-    "fluxVents": 5,
+    "fluxVents": 9,
     "goalVariant": true,
     "hullId": "diableavionics_versant_EX",
     "hullMods": [
         "diableavionics_selector_semi",
-        "fluxcoil",
         "unstable_injector",
     ],
     "permaMods": [],

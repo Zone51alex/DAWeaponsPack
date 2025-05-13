@@ -1,12 +1,12 @@
 {
     "displayName": "Assault",
-    "fluxCapacitors": 9,
-    "fluxVents": 20,
+    "fluxCapacitors": 20,
+    "fluxVents": 8,
     "goalVariant": true,
     "hullId": "diableavionics_miniGust_j",
     "hullMods": [
+        "fluxbreakers",
         "sotf_elitepilots",
-        "targetingunit",
         "unstable_injector",
     ],
     "permaMods": [],
@@ -25,36 +25,36 @@
             "autofire": false,
             "mode": "ALTERNATING",
             "weapons": {
-                "WS0008": "diableavionics_reioibox",
-                "WS0007": "diableavionics_reioibox",
+                "WS0008": "diableavionics_magicbox",
+                "WS0007": "diableavionics_magicbox",
             }
         },
         {
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS0001": "diableavionics_recson2",
+                "WS0001": "diableavionics_buckshot",
             }
         },
         {
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS0005": "diableavionics_artassault",
-                "WS0004": "diableavionics_artassault",
+                "WS0003": "diableavionics_graveac",
+                "WS0002": "diableavionics_graveac",
+                "WS0004": "diableavionics_graveac",
             }
         },
         {
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS0003": "diableavionics_ibis",
-                "WS0002": "diableavionics_ibis",
+                "WS0005": "diableavionics_burchel",
             }
         },
     ],
     "wings": [
-        "diableavionics_arbitratorZ_wing",
+        "diableavionics_arbitrator_wing",
     ],
     "modules": [],
 }

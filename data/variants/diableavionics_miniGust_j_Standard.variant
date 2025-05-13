@@ -1,6 +1,6 @@
 {
     "displayName": "Standard",
-    "fluxCapacitors": 14,
+    "fluxCapacitors": 8,
     "fluxVents": 20,
     "goalVariant": true,
     "hullId": "diableavionics_miniGust_j",
@@ -52,7 +52,7 @@
         },
     ],
     "wings": [
-        "diableavionics_arbitrator_wing",
+        "diableavionics_arbitratorZ_wing",
     ],
     "modules": [],
 }
