@@ -2,7 +2,7 @@
   "hullName": "Coanda(JG)",
   "hullId": "diableavionics_coanda_j",
   "hullSize": "DESTROYER",
-  "spriteName": "graphics/da/ships/diableavionics_coanda.png",
+  "spriteName": "graphics/jg/ships/diableavionics_coanda.png",
   "style": "HIGH_TECH",
   "height": 220,
   "width": 102,

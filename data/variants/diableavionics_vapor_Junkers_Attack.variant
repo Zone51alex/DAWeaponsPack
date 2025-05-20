@@ -1,0 +1,35 @@
+{
+    "displayName": "Junkers Attack",
+    "fluxCapacitors": 5,
+    "fluxVents": 10,
+    "goalVariant": true,
+    "hullId": "diableavionics_vapor",
+    "hullMods": [
+        "fluxdistributor",
+        "targetingunit",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "diableavionics_vapor_Junkers_Attack",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0001": "diableavionics_nocturne",
+                "WS0002": "diableavionics_nocturne",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0003": "diableavionics_reioibox",
+                "WS0004": "diableavionics_reioibox",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

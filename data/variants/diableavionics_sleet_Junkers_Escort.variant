@@ -1,0 +1,42 @@
+{
+    "displayName": "Junkers Escort",
+    "fluxCapacitors": 10,
+    "fluxVents": 8,
+    "goalVariant": true,
+    "hullId": "diableavionics_sleet",
+    "hullMods": [
+        "extendedshieldemitter",
+        "fluxbreakers",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "diableavionics_sleet_Junkers_Escort",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0001": "diableavionics_graveac",
+                "WS0002": "diableavionics_graveac",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0003": "diableavionics_micromissile",
+                "WS0004": "diableavionics_micromissile",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0005": "diableavionics_winee",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

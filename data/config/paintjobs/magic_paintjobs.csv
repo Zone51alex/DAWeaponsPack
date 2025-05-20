@@ -1,0 +1,38 @@
+id,hullIds,name,paintjobFamily,spriteId,unlockedAutomatically,tags,unlockConditions,description
+,,,,,,,,
+CPW_vapor_j_standard_new,diableavionics_vapor_j,Diable,diable,graphics/da/ships/diableavionics_vapor.png,TRUE,,Unlocked by Default.,Use Diable Standard Sprite.
+CPW_fractus_j_standard_new,diableavionics_fractus_j,Diable,diable,graphics/da/ships/diableavionics_fractus.png,TRUE,,Unlocked by Default.,Use Diable Standard Sprite.
+CPW_gust_j_standard_new,diableavionics_gust_j,Diable,diable,graphics/da/ships/diableavionics_gust.png,TRUE,,Unlocked by Default.,Use Diable Standard Sprite.
+CPW_minigust_j_standard_new,diableavionics_miniGust_j,Diable,diable,graphics/da/ships/diableavionics_minigust.png,TRUE,,Unlocked by Default.,Use Diable Standard Sprite.
+CPW_rime_m_j_standard_new,diableavionics_rime_m_j,Diable,diable,graphics/da/ships/diableavionics_rime_military.png,TRUE,,Unlocked by Default.,Use Diable Standard Sprite.
+CPW_fractalus_Expanded_new,diableavionics_fractalus,Diable,diable,graphics/da/ships/diableavionics_fractalusDA.png,TRUE,,Unlocked by Default.,Use Diable Standard Sprite.
+CPW_versant_j_standard,diableavionics_versant_j,Diable,diable,graphics/da/ships/versant/diableavionics_versant_body.png,TRUE,,Unlocked by Default.,Use Original Sprite.
+,,,,,,,,
+#Expanded Default,,,,,,,,
+,,,,,,,,
+CPW_vapor_j_Expanded,diableavionics_vapor_j,Expanded,snowblast,graphics/jg/ships/diableavionics_vapor.png,TRUE,,Unlocked by Default.,Use Original Sprite.
+CPW_fractus_j_Expanded,diableavionics_fractus_j,Expanded,snowblast,graphics/jg/ships/diableavionics_fractus.png,TRUE,,Unlocked by Default.,Use Original Sprite.
+CPW_gust_j_Expanded,diableavionics_gust_j,Expanded,snowblast,graphics/jg/ships/diableavionics_gust.png,TRUE,,Unlocked by Default.,Use Original Sprite.
+CPW_minigust_j_Expanded,diableavionics_miniGust_j,Expanded,snowblast,graphics/jg/ships/diableavionics_minigust.png,TRUE,,Unlocked by Default.,Use Original Sprite.
+CPW_rime_m_j_Expanded,diableavionics_rime_m_j,Expanded,snowblast,graphics/jg/ships/diableavionics_rime_military.png,TRUE,,Unlocked by Default.,Use Original Sprite.
+CPW_cheiftain_Expanded,diableavionics_chieftain_EX,Expanded,snowblast,graphics/jg/ships/diableavionics_chieftain.png,TRUE,,Unlocked by Default.,Use Original Sprite.
+CPW_fractalus_Expanded,diableavionics_fractalus,Expanded,snowblast,graphics/jg/ships/diableavionics_fractalus.png,TRUE,,Unlocked by Default.,Use Original Sprite.
+CPW_versant_j_Expanded,diableavionics_versant_j,Expanded,snowblast,graphics/jg/ships/versant/diableavionics_versant_body.png,TRUE,,Unlocked by Default.,Use Original Sprite.
+,,,,,,,,
+#EX Magicpaintjob Support,,,,,,,,
+,,,,,,,,
+CPW_Gust_EX_Expanded,diableavionics_gust_EX,Expanded,snowblast,graphics/jg/ships/diableavionics_gust_EX.png,TRUE,,Unlocked by Default.,Use Original Sprite.
+CPW_Calm_EX_Expanded,diableavionics_calm_EX,Expanded,snowblast,graphics/jg/ships/diableavionics_calm_EX_deck.png,TRUE,,Unlocked by Default.,Use Original Sprite.
+CPW_Storm_EX_Expanded,diableavionics_storm_EX,Expanded,snowblast,graphics/jg/ships/diableavionics_storm.png,TRUE,,Unlocked by Default.,Use Original Sprite.
+CPW_superrime_EX_Expanded,diableavionics_superrime_EX,Expanded,snowblast,graphics/jg/ships/diableavionics_rime_military_EX.png,TRUE,,Unlocked by Default.,Use Original Sprite.
+CPW_superrime_EX_standard_new,diableavionics_superrime_EX,Diable,diable,graphics/da/ships/diableavionics_rime_military_EX_standard.png,TRUE,,Unlocked by Default.,Use Diable Standard Sprite.
+,,,,,,,,
+#0.97 magicpaintjob system,,,,,,,,
+,,,,,,,,
+CPW_vapor_j_standard,diableavionics_vapor_j,Diable 0.97,,graphics/da/ships/diableavionics_vapor.png,TRUE,,Unlocked by Default.,Use Diable Standard Sprite.
+CPW_fractus_j_standard,diableavionics_fractus_j,Diable 0.97,,graphics/da/ships/diableavionics_fractus.png,TRUE,,Unlocked by Default.,Use Diable Standard Sprite.
+CPW_gust_j_standard,diableavionics_gust_j,Diable 0.97,,graphics/da/ships/diableavionics_gust.png,TRUE,,Unlocked by Default.,Use Diable Standard Sprite.
+CPW_minigust_j_standard,diableavionics_miniGust_j,Diable 0.97,,graphics/da/ships/diableavionics_minigust.png,TRUE,,Unlocked by Default.,Use Diable Standard Sprite.
+CPW_rime_m_j_standard,diableavionics_rime_m_j,Diable 0.97,,graphics/da/ships/diableavionics_rime_military.png,TRUE,,Unlocked by Default.,Use Diable Standard Sprite.
+CPW_superrime_EX_standard,diableavionics_superrime_EX,Diable 0.97,,graphics/da/ships/diableavionics_rime_military_EX_standard.png,TRUE,,Unlocked by Default.,Use Diable Standard Sprite.
+CPW_fractalus_standard,diableavionics_fractalus,Diable 0.97,,graphics/jg/ships/diableavionics_fractalus.png,TRUE,,Unlocked by Default.,Use Diable Standard Sprite.

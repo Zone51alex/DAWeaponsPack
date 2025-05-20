@@ -1,6 +1,6 @@
 {
     "displayName": "Standard",
-    "fluxCapacitors": 8,
+    "fluxCapacitors": 11,
     "fluxVents": 20,
     "goalVariant": true,
     "hullId": "diableavionics_miniGust_j",
@@ -23,24 +23,24 @@
             "autofire": false,
             "mode": "ALTERNATING",
             "weapons": {
-                "WS0008": "diableavionics_banishsmall",
-                "WS0007": "diableavionics_banishsmall",
+                "WS0008": "diableavionics_micromissile",
+                "WS0007": "diableavionics_micromissile",
             }
         },
         {
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS0001": "diableavionics_mostro_medium",
+                "WS0001": "diableavionics_recson2",
             }
         },
         {
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS0003": "diableavionics_recson",
-                "WS0002": "diableavionics_recson",
-                "WS0004": "diableavionics_recson",
+                "WS0003": "diableavionics_graveac",
+                "WS0002": "diableavionics_graveac",
+                "WS0004": "diableavionics_graveac",
             }
         },
         {

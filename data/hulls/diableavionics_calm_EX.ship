@@ -20,8 +20,8 @@
     "WS0008": "diableavionics_microbuiltin",
     "WS0009": "diableavionics_microbuiltin",
     "WS0010": "diableavionics_microbuiltin",
-    "WS0011": "diableavionics_raycast",
-    "WS0012": "diableavionics_heemeyer"
+    "WS0011": "diableavionics_heemeyer",
+    "WS0012": "diableavionics_raycast2"
   },
   "weaponSlots": [
     {

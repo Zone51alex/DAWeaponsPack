@@ -1,14 +1,17 @@
 {
     "displayName": "Sentinel",
-    "fluxCapacitors": 13,
-    "fluxVents": 30,
+    "fluxCapacitors": 30,
+    "fluxVents": 23,
     "goalVariant": true,
     "hullId": "diableavionics_gust_j",
     "hullMods": [
-        "magazines",
+        "fluxbreakers",
+        "sotf_elitepilots",
         "targetingunit",
     ],
-    "permaMods": [],
+    "permaMods": [
+        "ML_skinSwap",
+    ],
     "sMods": [],
     "suppressedMods": [],
     "variantId": "diableavionics_gust_j_Sentinel",
@@ -52,7 +55,7 @@
         },
     ],
     "wings": [
-        "diableavionics_blizzaia_wing",
+        "diableavionics_arbitrator_wing",
     ],
     "modules": [],
 }

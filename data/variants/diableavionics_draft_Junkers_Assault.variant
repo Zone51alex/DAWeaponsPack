@@ -1,0 +1,43 @@
+{
+    "displayName": "Junkers Assault",
+    "fluxCapacitors": 5,
+    "fluxVents": 10,
+    "goalVariant": true,
+    "hullId": "diableavionics_draft",
+    "hullMods": [],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "diableavionics_draft_Junkers_Assault",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0001": "diableavionics_gravemg",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0003": "diableavionics_reioibox",
+                "WS0002": "diableavionics_reioibox",
+                "WS0005": "diableavionics_reioibox",
+                "WS0004": "diableavionics_reioibox",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0008": "diableavionics_ibis",
+                "WS0007": "diableavionics_ibis",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [
+        {"WS0000": "diableavionics_draftarmormodule_Junkers_Assault"},
+    ],
+}

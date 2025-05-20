@@ -1,12 +1,11 @@
 {
     "displayName": "Standard",
-    "fluxCapacitors": 14,
+    "fluxCapacitors": 12,
     "fluxVents": 30,
     "goalVariant": true,
     "hullId": "diableavionics_gust_j",
     "hullMods": [
         "auxiliarythrusters",
-        "jg_salvagewingcon",
         "stabilizedshieldemitter",
         "targetingunit",
     ],
@@ -54,7 +53,7 @@
         },
     ],
     "wings": [
-        "diableavionics_hoar_wing",
+        "diableavionics_arbitratorZ_wing",
     ],
     "modules": [],
 }
