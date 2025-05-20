@@ -73,9 +73,6 @@
             "diable_tidalp":0.5,
             "diableavionics_chinookp":0.5,
 			
-			"diableavionics_miniGust_j":0.05,
-            "diableavionics_gust_j":0.05,
-			
             "diableavionics_miniGust_j":0.25,
             "diableavionics_gust_j":0.25,
 			
